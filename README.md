@@ -1,0 +1,2 @@
+# eternal
+for Mac OS
