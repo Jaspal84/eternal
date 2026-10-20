@@ -1,0 +1,6050 @@
+[
+  {
+    "stem": "Keherwa_080BPM_Intro_1bar",
+    "frames": 144000,
+    "peak": 0.5976234174916238,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Intro_2bar",
+    "frames": 288000,
+    "peak": 0.522154713786766,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Intro_4bar",
+    "frames": 576000,
+    "peak": 0.5315276217336288,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Intro_8bar",
+    "frames": 1152000,
+    "peak": 0.5405489165853803,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Main_1bar",
+    "frames": 144000,
+    "peak": 0.4813958490449802,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Main_2bar",
+    "frames": 288000,
+    "peak": 0.5295122459668145,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Main_4bar",
+    "frames": 576000,
+    "peak": 0.5180007517102263,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Main_8bar",
+    "frames": 1152000,
+    "peak": 0.5413719910346496,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Variation_A_1bar",
+    "frames": 144000,
+    "peak": 0.5282804947042554,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Variation_A_2bar",
+    "frames": 288000,
+    "peak": 0.516880795528705,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Variation_A_4bar",
+    "frames": 576000,
+    "peak": 0.5189754083799828,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Variation_A_8bar",
+    "frames": 1152000,
+    "peak": 0.530904047727977,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Variation_B_1bar",
+    "frames": 144000,
+    "peak": 0.48337613544886077,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Variation_B_2bar",
+    "frames": 288000,
+    "peak": 0.48401245780230195,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Variation_B_4bar",
+    "frames": 576000,
+    "peak": 0.5403459440476687,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Variation_B_8bar",
+    "frames": 1152000,
+    "peak": 0.529998854049317,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Fill_1bar",
+    "frames": 144000,
+    "peak": 0.4796861209690208,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Fill_2bar",
+    "frames": 288000,
+    "peak": 0.48423292896155706,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Fill_4bar",
+    "frames": 576000,
+    "peak": 0.5096874621368004,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Fill_8bar",
+    "frames": 1152000,
+    "peak": 0.5349824923012125,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Break_1bar",
+    "frames": 144000,
+    "peak": 0.687195198563344,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Break_2bar",
+    "frames": 288000,
+    "peak": 0.6799869228246874,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Break_4bar",
+    "frames": 576000,
+    "peak": 0.6929296724565234,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Break_8bar",
+    "frames": 1152000,
+    "peak": 0.6944821658691525,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Ending_1bar",
+    "frames": 144000,
+    "peak": 0.5348167862079318,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Ending_2bar",
+    "frames": 288000,
+    "peak": 0.5323589934467802,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Ending_4bar",
+    "frames": 576000,
+    "peak": 0.5546317449411026,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_080BPM_Ending_8bar",
+    "frames": 1152000,
+    "peak": 0.5207535025722894,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Intro_1bar",
+    "frames": 104727,
+    "peak": 0.4968830429406873,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Intro_2bar",
+    "frames": 209455,
+    "peak": 0.5023598359416696,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Intro_4bar",
+    "frames": 418909,
+    "peak": 0.5085180093780111,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Intro_8bar",
+    "frames": 837819,
+    "peak": 0.4755580559474794,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Main_1bar",
+    "frames": 104727,
+    "peak": 0.4155708393888519,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Main_2bar",
+    "frames": 209455,
+    "peak": 0.4550690557441503,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Main_4bar",
+    "frames": 418909,
+    "peak": 0.4386738292007277,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Main_8bar",
+    "frames": 837819,
+    "peak": 0.4969207779623401,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Variation_A_1bar",
+    "frames": 104727,
+    "peak": 0.433241006271771,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Variation_A_2bar",
+    "frames": 209455,
+    "peak": 0.4445002694517792,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Variation_A_4bar",
+    "frames": 418909,
+    "peak": 0.44861280345969695,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Variation_A_8bar",
+    "frames": 837819,
+    "peak": 0.4664999886279991,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Variation_B_1bar",
+    "frames": 104727,
+    "peak": 0.4149045751052901,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Variation_B_2bar",
+    "frames": 209455,
+    "peak": 0.4297598501566214,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Variation_B_4bar",
+    "frames": 418909,
+    "peak": 0.47488779883636345,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Variation_B_8bar",
+    "frames": 837819,
+    "peak": 0.46796318134639653,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Fill_1bar",
+    "frames": 104727,
+    "peak": 0.47025365295400157,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Fill_2bar",
+    "frames": 209455,
+    "peak": 0.4295842912097761,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Fill_4bar",
+    "frames": 418909,
+    "peak": 0.4918567076382868,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Fill_8bar",
+    "frames": 837819,
+    "peak": 0.47186488500343604,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Break_1bar",
+    "frames": 104727,
+    "peak": 0.5766373690717536,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Break_2bar",
+    "frames": 209455,
+    "peak": 0.5963699965505057,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Break_4bar",
+    "frames": 418909,
+    "peak": 0.6006723659391068,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Break_8bar",
+    "frames": 837819,
+    "peak": 0.6012155361081559,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Ending_1bar",
+    "frames": 104727,
+    "peak": 0.4893362878874611,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Ending_2bar",
+    "frames": 209455,
+    "peak": 0.4684120009678863,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Ending_4bar",
+    "frames": 418909,
+    "peak": 0.46694553391010163,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_110BPM_Ending_8bar",
+    "frames": 837819,
+    "peak": 0.46186960072899186,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Intro_1bar",
+    "frames": 82286,
+    "peak": 0.44069851457766923,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Intro_2bar",
+    "frames": 164571,
+    "peak": 0.4517078442646522,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Intro_4bar",
+    "frames": 329143,
+    "peak": 0.48385887441040226,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Intro_8bar",
+    "frames": 658285,
+    "peak": 0.425558171158856,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Main_1bar",
+    "frames": 82286,
+    "peak": 0.41121708847079935,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Main_2bar",
+    "frames": 164571,
+    "peak": 0.38319469476121476,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Main_4bar",
+    "frames": 329143,
+    "peak": 0.47135613454774294,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Main_8bar",
+    "frames": 658285,
+    "peak": 0.4387333847528763,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Variation_A_1bar",
+    "frames": 82286,
+    "peak": 0.3691377709691061,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Variation_A_2bar",
+    "frames": 164571,
+    "peak": 0.4021957199868543,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Variation_A_4bar",
+    "frames": 329143,
+    "peak": 0.42047815769545444,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Variation_A_8bar",
+    "frames": 658285,
+    "peak": 0.4428286416504792,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Variation_B_1bar",
+    "frames": 82286,
+    "peak": 0.41423856668078324,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Variation_B_2bar",
+    "frames": 164571,
+    "peak": 0.42698737918818164,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Variation_B_4bar",
+    "frames": 329143,
+    "peak": 0.4639221738997641,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Variation_B_8bar",
+    "frames": 658285,
+    "peak": 0.43859183010512853,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Fill_1bar",
+    "frames": 82286,
+    "peak": 0.42413559296838643,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Fill_2bar",
+    "frames": 164571,
+    "peak": 0.4459597960877112,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Fill_4bar",
+    "frames": 329143,
+    "peak": 0.41630105733547174,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Fill_8bar",
+    "frames": 658285,
+    "peak": 0.45501821259580627,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Break_1bar",
+    "frames": 82286,
+    "peak": 0.5101960161920056,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Break_2bar",
+    "frames": 164571,
+    "peak": 0.5182145708197945,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Break_4bar",
+    "frames": 329143,
+    "peak": 0.537645643781267,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Break_8bar",
+    "frames": 658285,
+    "peak": 0.5408821788234718,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Ending_1bar",
+    "frames": 82286,
+    "peak": 0.45114019310047565,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Ending_2bar",
+    "frames": 164571,
+    "peak": 0.45844419600171166,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Ending_4bar",
+    "frames": 329143,
+    "peak": 0.45347814624344757,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Keherwa_140BPM_Ending_8bar",
+    "frames": 658285,
+    "peak": 0.4511535502476942,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Intro_1bar",
+    "frames": 123429,
+    "peak": 0.5688189896137668,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Intro_2bar",
+    "frames": 246857,
+    "peak": 0.48357421638938336,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Intro_4bar",
+    "frames": 493714,
+    "peak": 0.45820635076612354,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Intro_8bar",
+    "frames": 987429,
+    "peak": 0.4678204829104207,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Main_1bar",
+    "frames": 123429,
+    "peak": 0.42876534232088764,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Main_2bar",
+    "frames": 246857,
+    "peak": 0.4489186661970054,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Main_4bar",
+    "frames": 493714,
+    "peak": 0.4254885573668311,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Main_8bar",
+    "frames": 987429,
+    "peak": 0.43923519349706575,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Variation_A_1bar",
+    "frames": 123429,
+    "peak": 0.522316872796215,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Variation_A_2bar",
+    "frames": 246857,
+    "peak": 0.5012907653679733,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Variation_A_4bar",
+    "frames": 493714,
+    "peak": 0.552522497993428,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Variation_A_8bar",
+    "frames": 987429,
+    "peak": 0.5277502715713833,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Variation_B_1bar",
+    "frames": 123429,
+    "peak": 0.4420048246633713,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Variation_B_2bar",
+    "frames": 246857,
+    "peak": 0.4437967512513196,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Variation_B_4bar",
+    "frames": 493714,
+    "peak": 0.4387315719369307,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Variation_B_8bar",
+    "frames": 987429,
+    "peak": 0.4487438143527191,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Fill_1bar",
+    "frames": 123429,
+    "peak": 0.5042699615472785,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Fill_2bar",
+    "frames": 246857,
+    "peak": 0.4774383285124373,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Fill_4bar",
+    "frames": 493714,
+    "peak": 0.47098250758517113,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Fill_8bar",
+    "frames": 987429,
+    "peak": 0.45215363776665823,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Break_1bar",
+    "frames": 123429,
+    "peak": 0.565481565883239,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Break_2bar",
+    "frames": 246857,
+    "peak": 0.5654105254945275,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Break_4bar",
+    "frames": 493714,
+    "peak": 0.5653971842899524,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Break_8bar",
+    "frames": 987429,
+    "peak": 0.5657715520474748,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Ending_1bar",
+    "frames": 123429,
+    "peak": 0.4635730018983855,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Ending_2bar",
+    "frames": 246857,
+    "peak": 0.4464359106465162,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Ending_4bar",
+    "frames": 493714,
+    "peak": 0.45738323980263035,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_070BPM_Ending_8bar",
+    "frames": 987429,
+    "peak": 0.45235541020858766,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Intro_1bar",
+    "frames": 90947,
+    "peak": 0.5029058777765564,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Intro_2bar",
+    "frames": 181895,
+    "peak": 0.4696808281296515,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Intro_4bar",
+    "frames": 363790,
+    "peak": 0.4213723474740263,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Intro_8bar",
+    "frames": 727579,
+    "peak": 0.4230211934641504,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Main_1bar",
+    "frames": 90947,
+    "peak": 0.3854936099397864,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Main_2bar",
+    "frames": 181895,
+    "peak": 0.4032883961003748,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Main_4bar",
+    "frames": 363790,
+    "peak": 0.42174592311959835,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Main_8bar",
+    "frames": 727579,
+    "peak": 0.4144545597673984,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Variation_A_1bar",
+    "frames": 90947,
+    "peak": 0.4275833771527987,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Variation_A_2bar",
+    "frames": 181895,
+    "peak": 0.4430672671335499,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Variation_A_4bar",
+    "frames": 363790,
+    "peak": 0.43669984478825674,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Variation_A_8bar",
+    "frames": 727579,
+    "peak": 0.4880912550131606,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Variation_B_1bar",
+    "frames": 90947,
+    "peak": 0.36749661424257885,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Variation_B_2bar",
+    "frames": 181895,
+    "peak": 0.3869413836561813,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Variation_B_4bar",
+    "frames": 363790,
+    "peak": 0.3820173455252259,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Variation_B_8bar",
+    "frames": 727579,
+    "peak": 0.4060902301657901,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Fill_1bar",
+    "frames": 90947,
+    "peak": 0.4437388935139496,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Fill_2bar",
+    "frames": 181895,
+    "peak": 0.43874011828191933,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Fill_4bar",
+    "frames": 363790,
+    "peak": 0.4347455025012986,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Fill_8bar",
+    "frames": 727579,
+    "peak": 0.42385910119094655,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Break_1bar",
+    "frames": 90947,
+    "peak": 0.4768547494338703,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Break_2bar",
+    "frames": 181895,
+    "peak": 0.49205615784990986,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Break_4bar",
+    "frames": 363790,
+    "peak": 0.49803374954034496,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Break_8bar",
+    "frames": 727579,
+    "peak": 0.4974445958749099,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Ending_1bar",
+    "frames": 90947,
+    "peak": 0.4625361083030274,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Ending_2bar",
+    "frames": 181895,
+    "peak": 0.4136313931749952,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Ending_4bar",
+    "frames": 363790,
+    "peak": 0.42342428564634105,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_095BPM_Ending_8bar",
+    "frames": 727579,
+    "peak": 0.4020486083328778,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Intro_1bar",
+    "frames": 72000,
+    "peak": 0.47527494102963375,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Intro_2bar",
+    "frames": 144000,
+    "peak": 0.38030778182569763,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Intro_4bar",
+    "frames": 288000,
+    "peak": 0.3746889141412188,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Intro_8bar",
+    "frames": 576000,
+    "peak": 0.37899800264523464,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Main_1bar",
+    "frames": 72000,
+    "peak": 0.33394363007072425,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Main_2bar",
+    "frames": 144000,
+    "peak": 0.3692990279218291,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Main_4bar",
+    "frames": 288000,
+    "peak": 0.39072376711346607,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Main_8bar",
+    "frames": 576000,
+    "peak": 0.38496931608103846,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Variation_A_1bar",
+    "frames": 72000,
+    "peak": 0.4136222117106454,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Variation_A_2bar",
+    "frames": 144000,
+    "peak": 0.436902328352709,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Variation_A_4bar",
+    "frames": 288000,
+    "peak": 0.4459714002288219,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Variation_A_8bar",
+    "frames": 576000,
+    "peak": 0.4324326765649397,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Variation_B_1bar",
+    "frames": 72000,
+    "peak": 0.33752484455306936,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Variation_B_2bar",
+    "frames": 144000,
+    "peak": 0.33633930315359295,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Variation_B_4bar",
+    "frames": 288000,
+    "peak": 0.3840622320117333,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Variation_B_8bar",
+    "frames": 576000,
+    "peak": 0.39537338788418297,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Fill_1bar",
+    "frames": 72000,
+    "peak": 0.40274578713973247,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Fill_2bar",
+    "frames": 144000,
+    "peak": 0.40481992239525044,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Fill_4bar",
+    "frames": 288000,
+    "peak": 0.40358775974286587,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Fill_8bar",
+    "frames": 576000,
+    "peak": 0.3979296575847142,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Break_1bar",
+    "frames": 72000,
+    "peak": 0.4541509909851724,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Break_2bar",
+    "frames": 144000,
+    "peak": 0.4482146207274975,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Break_4bar",
+    "frames": 288000,
+    "peak": 0.434476715140013,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Break_8bar",
+    "frames": 576000,
+    "peak": 0.4638598735064482,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Ending_1bar",
+    "frames": 72000,
+    "peak": 0.3522817792807081,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Ending_2bar",
+    "frames": 144000,
+    "peak": 0.4074480153143457,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Ending_4bar",
+    "frames": 288000,
+    "peak": 0.4014192552732459,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dadra_120BPM_Ending_8bar",
+    "frames": 576000,
+    "peak": 0.38729163658155963,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Intro_1bar",
+    "frames": 658286,
+    "peak": 0.8755096527303532,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Intro_2bar",
+    "frames": 1316572,
+    "peak": 0.7686485605135732,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Intro_4bar",
+    "frames": 2633143,
+    "peak": 0.7167598157186058,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Intro_8bar",
+    "frames": 5266287,
+    "peak": 0.7195244139198677,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Main_1bar",
+    "frames": 658286,
+    "peak": 0.6762606028723873,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Main_2bar",
+    "frames": 1316572,
+    "peak": 0.6946116690088585,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Main_4bar",
+    "frames": 2633143,
+    "peak": 0.6774419847774386,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Main_8bar",
+    "frames": 5266287,
+    "peak": 0.6950377972322053,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Variation_A_1bar",
+    "frames": 658286,
+    "peak": 0.7103673744504749,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Variation_A_2bar",
+    "frames": 1316572,
+    "peak": 0.7171616820414449,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Variation_A_4bar",
+    "frames": 2633143,
+    "peak": 0.7208893055969879,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Variation_A_8bar",
+    "frames": 5266287,
+    "peak": 0.7192417558139311,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Variation_B_1bar",
+    "frames": 658286,
+    "peak": 0.6786693403459401,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Variation_B_2bar",
+    "frames": 1316572,
+    "peak": 0.683435920971586,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Variation_B_4bar",
+    "frames": 2633143,
+    "peak": 0.6809547487937913,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Variation_B_8bar",
+    "frames": 5266287,
+    "peak": 0.6902639675317179,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Fill_1bar",
+    "frames": 658286,
+    "peak": 0.7466213529661191,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Fill_2bar",
+    "frames": 1316572,
+    "peak": 0.7227834165904766,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Fill_4bar",
+    "frames": 2633143,
+    "peak": 0.6974112218429278,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Fill_8bar",
+    "frames": 5266287,
+    "peak": 0.7046139307478348,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Break_1bar",
+    "frames": 658286,
+    "peak": 0.8912509381337456,
+    "rms_dbfs": -24.193935066948562
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Break_2bar",
+    "frames": 1316572,
+    "peak": 0.8912509381337456,
+    "rms_dbfs": -24.17265608974342
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Break_4bar",
+    "frames": 2633143,
+    "peak": 0.8912509381337456,
+    "rms_dbfs": -24.173561220439126
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Break_8bar",
+    "frames": 5266287,
+    "peak": 0.8912509381337456,
+    "rms_dbfs": -24.173544603705245
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Ending_1bar",
+    "frames": 658286,
+    "peak": 0.8341692991687807,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Ending_2bar",
+    "frames": 1316572,
+    "peak": 0.7530664932027571,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Ending_4bar",
+    "frames": 2633143,
+    "peak": 0.7175155064756682,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_070BPM_Ending_8bar",
+    "frames": 5266287,
+    "peak": 0.7067914315739598,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Intro_1bar",
+    "frames": 438857,
+    "peak": 0.7128418576863036,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Intro_2bar",
+    "frames": 877715,
+    "peak": 0.6248966839842436,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Intro_4bar",
+    "frames": 1755430,
+    "peak": 0.5913630605483031,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Intro_8bar",
+    "frames": 3510860,
+    "peak": 0.610242998682023,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Main_1bar",
+    "frames": 438857,
+    "peak": 0.5810657684909737,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Main_2bar",
+    "frames": 877715,
+    "peak": 0.5718308389511068,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Main_4bar",
+    "frames": 1755430,
+    "peak": 0.5812653142319023,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Main_8bar",
+    "frames": 3510860,
+    "peak": 0.5987782102343214,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Variation_A_1bar",
+    "frames": 438857,
+    "peak": 0.593005022010922,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Variation_A_2bar",
+    "frames": 877715,
+    "peak": 0.600649851268534,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Variation_A_4bar",
+    "frames": 1755430,
+    "peak": 0.6078220895490829,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Variation_A_8bar",
+    "frames": 3510860,
+    "peak": 0.5968394688667481,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Variation_B_1bar",
+    "frames": 438857,
+    "peak": 0.5596718970515585,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Variation_B_2bar",
+    "frames": 877715,
+    "peak": 0.5648414632382189,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Variation_B_4bar",
+    "frames": 1755430,
+    "peak": 0.6027450538772374,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Variation_B_8bar",
+    "frames": 3510860,
+    "peak": 0.591024081002674,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Fill_1bar",
+    "frames": 438857,
+    "peak": 0.6698452222171285,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Fill_2bar",
+    "frames": 877715,
+    "peak": 0.6169179298680472,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Fill_4bar",
+    "frames": 1755430,
+    "peak": 0.5845383536574308,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Fill_8bar",
+    "frames": 3510860,
+    "peak": 0.594859038892342,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Break_1bar",
+    "frames": 438857,
+    "peak": 0.8912509381337456,
+    "rms_dbfs": -22.442604215334477
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Break_2bar",
+    "frames": 877715,
+    "peak": 0.8912509381337456,
+    "rms_dbfs": -22.42891012376549
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Break_4bar",
+    "frames": 1755430,
+    "peak": 0.8912509381337456,
+    "rms_dbfs": -22.415890241357555
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Break_8bar",
+    "frames": 3510860,
+    "peak": 0.8912509381337455,
+    "rms_dbfs": -22.43445347691866
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Ending_1bar",
+    "frames": 438857,
+    "peak": 0.6855953183859462,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Ending_2bar",
+    "frames": 877715,
+    "peak": 0.6483891023758241,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Ending_4bar",
+    "frames": 1755430,
+    "peak": 0.6280215066805844,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_105BPM_Ending_8bar",
+    "frames": 3510860,
+    "peak": 0.6026811033925744,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Intro_1bar",
+    "frames": 329143,
+    "peak": 0.6284384831890661,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Intro_2bar",
+    "frames": 658285,
+    "peak": 0.5514586195278187,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Intro_4bar",
+    "frames": 1316570,
+    "peak": 0.5606548916476884,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Intro_8bar",
+    "frames": 2633140,
+    "peak": 0.5510100982170513,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Main_1bar",
+    "frames": 329143,
+    "peak": 0.4830425628303706,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Main_2bar",
+    "frames": 658285,
+    "peak": 0.5038365056185802,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Main_4bar",
+    "frames": 1316570,
+    "peak": 0.5205134892435095,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Main_8bar",
+    "frames": 2633140,
+    "peak": 0.5229477204752185,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Variation_A_1bar",
+    "frames": 329143,
+    "peak": 0.538241883355752,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Variation_A_2bar",
+    "frames": 658285,
+    "peak": 0.5114759545625734,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Variation_A_4bar",
+    "frames": 1316570,
+    "peak": 0.5354315585766241,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Variation_A_8bar",
+    "frames": 2633140,
+    "peak": 0.5330230121075074,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Variation_B_1bar",
+    "frames": 329143,
+    "peak": 0.48794311500355075,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Variation_B_2bar",
+    "frames": 658285,
+    "peak": 0.5060894767197878,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Variation_B_4bar",
+    "frames": 1316570,
+    "peak": 0.4930772026053382,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Variation_B_8bar",
+    "frames": 2633140,
+    "peak": 0.5414318430727202,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Fill_1bar",
+    "frames": 329143,
+    "peak": 0.5792433836554116,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Fill_2bar",
+    "frames": 658285,
+    "peak": 0.5173401715500865,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Fill_4bar",
+    "frames": 1316570,
+    "peak": 0.56266440134116,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Fill_8bar",
+    "frames": 2633140,
+    "peak": 0.5331273699402398,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Break_1bar",
+    "frames": 329143,
+    "peak": 0.8113058893242987,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Break_2bar",
+    "frames": 658285,
+    "peak": 0.8101524492860886,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Break_4bar",
+    "frames": 1316570,
+    "peak": 0.8164105573525077,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Break_8bar",
+    "frames": 2633140,
+    "peak": 0.8160032577152674,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Ending_1bar",
+    "frames": 329143,
+    "peak": 0.5804469687443701,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Ending_2bar",
+    "frames": 658285,
+    "peak": 0.549615427587234,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Ending_4bar",
+    "frames": 1316570,
+    "peak": 0.5528704848556381,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Teen_Taal_140BPM_Ending_8bar",
+    "frames": 2633140,
+    "peak": 0.5751562937796696,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Intro_1bar",
+    "frames": 288000,
+    "peak": 0.6562467541187204,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Intro_2bar",
+    "frames": 576000,
+    "peak": 0.7376460977396936,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Intro_4bar",
+    "frames": 1152000,
+    "peak": 0.6738179440648685,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Intro_8bar",
+    "frames": 2304000,
+    "peak": 0.647168299513494,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Main_1bar",
+    "frames": 288000,
+    "peak": 0.6060491872252196,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Main_2bar",
+    "frames": 576000,
+    "peak": 0.6185621863468457,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Main_4bar",
+    "frames": 1152000,
+    "peak": 0.6146535374180105,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Main_8bar",
+    "frames": 2304000,
+    "peak": 0.6185937186932656,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Variation_A_1bar",
+    "frames": 288000,
+    "peak": 0.7065576676034342,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Variation_A_2bar",
+    "frames": 576000,
+    "peak": 0.7120402394211388,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Variation_A_4bar",
+    "frames": 1152000,
+    "peak": 0.7185848814545557,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Variation_A_8bar",
+    "frames": 2304000,
+    "peak": 0.7183470572313446,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Variation_B_1bar",
+    "frames": 288000,
+    "peak": 0.6189966407303905,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Variation_B_2bar",
+    "frames": 576000,
+    "peak": 0.6138708683126137,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Variation_B_4bar",
+    "frames": 1152000,
+    "peak": 0.6404453853241795,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Variation_B_8bar",
+    "frames": 2304000,
+    "peak": 0.6371597607779179,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Fill_1bar",
+    "frames": 288000,
+    "peak": 0.7233442052582711,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Fill_2bar",
+    "frames": 576000,
+    "peak": 0.683742314248124,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Fill_4bar",
+    "frames": 1152000,
+    "peak": 0.6530332701289561,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Fill_8bar",
+    "frames": 2304000,
+    "peak": 0.6319035843616518,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Break_1bar",
+    "frames": 288000,
+    "peak": 0.7608075319921044,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Break_2bar",
+    "frames": 576000,
+    "peak": 0.7748461789359752,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Break_4bar",
+    "frames": 1152000,
+    "peak": 0.7623532992901679,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Break_8bar",
+    "frames": 2304000,
+    "peak": 0.7670519041492815,
+    "rms_dbfs": -22.000000000000007
+  },
+  {
+    "stem": "Rupak_070BPM_Ending_1bar",
+    "frames": 288000,
+    "peak": 0.7864828468958486,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Ending_2bar",
+    "frames": 576000,
+    "peak": 0.6831006331223971,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Ending_4bar",
+    "frames": 1152000,
+    "peak": 0.6485751556900704,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_070BPM_Ending_8bar",
+    "frames": 2304000,
+    "peak": 0.6348408752804803,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Intro_1bar",
+    "frames": 212211,
+    "peak": 0.5777124859013625,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Intro_2bar",
+    "frames": 424421,
+    "peak": 0.6415843842093529,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Intro_4bar",
+    "frames": 848842,
+    "peak": 0.5900471257595052,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Intro_8bar",
+    "frames": 1697684,
+    "peak": 0.5624371357777292,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Main_1bar",
+    "frames": 212211,
+    "peak": 0.519261566215852,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Main_2bar",
+    "frames": 424421,
+    "peak": 0.5468094142387138,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Main_4bar",
+    "frames": 848842,
+    "peak": 0.5345308755490975,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Main_8bar",
+    "frames": 1697684,
+    "peak": 0.5399421915768564,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Variation_A_1bar",
+    "frames": 212211,
+    "peak": 0.6067511645593505,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Variation_A_2bar",
+    "frames": 424421,
+    "peak": 0.6193063444578469,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Variation_A_4bar",
+    "frames": 848842,
+    "peak": 0.615487219879392,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Variation_A_8bar",
+    "frames": 1697684,
+    "peak": 0.6229796933466307,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Variation_B_1bar",
+    "frames": 212211,
+    "peak": 0.5308690639163838,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Variation_B_2bar",
+    "frames": 424421,
+    "peak": 0.5350420280956819,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Variation_B_4bar",
+    "frames": 848842,
+    "peak": 0.5617074186016676,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Variation_B_8bar",
+    "frames": 1697684,
+    "peak": 0.5652119079194647,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Fill_1bar",
+    "frames": 212211,
+    "peak": 0.6186136319449308,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Fill_2bar",
+    "frames": 424421,
+    "peak": 0.5841497599019779,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Fill_4bar",
+    "frames": 848842,
+    "peak": 0.5792054960435007,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Fill_8bar",
+    "frames": 1697684,
+    "peak": 0.5544274261561658,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Break_1bar",
+    "frames": 212211,
+    "peak": 0.6666576519104382,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Break_2bar",
+    "frames": 424421,
+    "peak": 0.6704403684504086,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Break_4bar",
+    "frames": 848842,
+    "peak": 0.6805395478921121,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Break_8bar",
+    "frames": 1697684,
+    "peak": 0.6785224177703465,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Ending_1bar",
+    "frames": 212211,
+    "peak": 0.6764034083678121,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Ending_2bar",
+    "frames": 424421,
+    "peak": 0.5714148846428415,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Ending_4bar",
+    "frames": 848842,
+    "peak": 0.5764066245467504,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_095BPM_Ending_8bar",
+    "frames": 1697684,
+    "peak": 0.5579772487603475,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Intro_1bar",
+    "frames": 168000,
+    "peak": 0.5099172596513618,
+    "rms_dbfs": -22.000000000000007
+  },
+  {
+    "stem": "Rupak_120BPM_Intro_2bar",
+    "frames": 336000,
+    "peak": 0.5422239125298737,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Intro_4bar",
+    "frames": 672000,
+    "peak": 0.5153336927694184,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Intro_8bar",
+    "frames": 1344000,
+    "peak": 0.5174367621617346,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Main_1bar",
+    "frames": 168000,
+    "peak": 0.49927943824639526,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Main_2bar",
+    "frames": 336000,
+    "peak": 0.4856600231449266,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Main_4bar",
+    "frames": 672000,
+    "peak": 0.49934623656961535,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Main_8bar",
+    "frames": 1344000,
+    "peak": 0.49053472381436664,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Variation_A_1bar",
+    "frames": 168000,
+    "peak": 0.5539573049460922,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Variation_A_2bar",
+    "frames": 336000,
+    "peak": 0.5377043974027679,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Variation_A_4bar",
+    "frames": 672000,
+    "peak": 0.5755946829740026,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Variation_A_8bar",
+    "frames": 1344000,
+    "peak": 0.5578515740158887,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Variation_B_1bar",
+    "frames": 168000,
+    "peak": 0.5038764699636451,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Variation_B_2bar",
+    "frames": 336000,
+    "peak": 0.4651222158759886,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Variation_B_4bar",
+    "frames": 672000,
+    "peak": 0.5138458718090256,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Variation_B_8bar",
+    "frames": 1344000,
+    "peak": 0.5034306846246424,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Fill_1bar",
+    "frames": 168000,
+    "peak": 0.5797272387387792,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Fill_2bar",
+    "frames": 336000,
+    "peak": 0.5468959578286332,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Fill_4bar",
+    "frames": 672000,
+    "peak": 0.5348619461143607,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Fill_8bar",
+    "frames": 1344000,
+    "peak": 0.5073494372717308,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Break_1bar",
+    "frames": 168000,
+    "peak": 0.5759859957485415,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Break_2bar",
+    "frames": 336000,
+    "peak": 0.5949633691130977,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Break_4bar",
+    "frames": 672000,
+    "peak": 0.6137466400911951,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Break_8bar",
+    "frames": 1344000,
+    "peak": 0.6114011415165863,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Ending_1bar",
+    "frames": 168000,
+    "peak": 0.6168037943291811,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Ending_2bar",
+    "frames": 336000,
+    "peak": 0.5343581091111929,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Ending_4bar",
+    "frames": 672000,
+    "peak": 0.5068975658788333,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Rupak_120BPM_Ending_8bar",
+    "frames": 1344000,
+    "peak": 0.5168325664398558,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Intro_1bar",
+    "frames": 115200,
+    "peak": 0.5162909891178731,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Intro_2bar",
+    "frames": 230400,
+    "peak": 0.4756320345875768,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Intro_4bar",
+    "frames": 460800,
+    "peak": 0.5002600435824134,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Intro_8bar",
+    "frames": 921600,
+    "peak": 0.4800826065401872,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Main_1bar",
+    "frames": 115200,
+    "peak": 0.4608924819024562,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Main_2bar",
+    "frames": 230400,
+    "peak": 0.5035317735237484,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Main_4bar",
+    "frames": 460800,
+    "peak": 0.4586197417032706,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Main_8bar",
+    "frames": 921600,
+    "peak": 0.48638801104785157,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Variation_A_1bar",
+    "frames": 115200,
+    "peak": 0.44602946039411584,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Variation_A_2bar",
+    "frames": 230400,
+    "peak": 0.504460010347328,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Variation_A_4bar",
+    "frames": 460800,
+    "peak": 0.4970933457651733,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Variation_A_8bar",
+    "frames": 921600,
+    "peak": 0.4759366531653801,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Variation_B_1bar",
+    "frames": 115200,
+    "peak": 0.44854212334344057,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Variation_B_2bar",
+    "frames": 230400,
+    "peak": 0.45185784916866806,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Variation_B_4bar",
+    "frames": 460800,
+    "peak": 0.4883119232498481,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Variation_B_8bar",
+    "frames": 921600,
+    "peak": 0.48261514214190454,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Fill_1bar",
+    "frames": 115200,
+    "peak": 0.427344127765549,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Fill_2bar",
+    "frames": 230400,
+    "peak": 0.5378099291293834,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Fill_4bar",
+    "frames": 460800,
+    "peak": 0.5508757724539519,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Fill_8bar",
+    "frames": 921600,
+    "peak": 0.5986629301468945,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Break_1bar",
+    "frames": 115200,
+    "peak": 0.5405216366174219,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Break_2bar",
+    "frames": 230400,
+    "peak": 0.5516834761459243,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Break_4bar",
+    "frames": 460800,
+    "peak": 0.5634574627158655,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Break_8bar",
+    "frames": 921600,
+    "peak": 0.5616938845981263,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Ending_1bar",
+    "frames": 115200,
+    "peak": 0.49032063669169307,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Ending_2bar",
+    "frames": 230400,
+    "peak": 0.4714641436312354,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Ending_4bar",
+    "frames": 460800,
+    "peak": 0.4730091550990287,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_100BPM_Ending_8bar",
+    "frames": 921600,
+    "peak": 0.5005474009026051,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Intro_1bar",
+    "frames": 88615,
+    "peak": 0.4148430564355108,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Intro_2bar",
+    "frames": 177231,
+    "peak": 0.4505250499707343,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Intro_4bar",
+    "frames": 354461,
+    "peak": 0.44453049924452426,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Intro_8bar",
+    "frames": 708922,
+    "peak": 0.4543383687820959,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Main_1bar",
+    "frames": 88615,
+    "peak": 0.3842478078186475,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Main_2bar",
+    "frames": 177231,
+    "peak": 0.44868072631516553,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Main_4bar",
+    "frames": 354461,
+    "peak": 0.4199720635464656,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Main_8bar",
+    "frames": 708922,
+    "peak": 0.42851558132313505,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Variation_A_1bar",
+    "frames": 88615,
+    "peak": 0.425865339942484,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Variation_A_2bar",
+    "frames": 177231,
+    "peak": 0.424391222439122,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Variation_A_4bar",
+    "frames": 354461,
+    "peak": 0.4609836041543887,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Variation_A_8bar",
+    "frames": 708922,
+    "peak": 0.43133952969984135,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Variation_B_1bar",
+    "frames": 88615,
+    "peak": 0.43055119891153043,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Variation_B_2bar",
+    "frames": 177231,
+    "peak": 0.4500152246688149,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Variation_B_4bar",
+    "frames": 354461,
+    "peak": 0.4477088273596531,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Variation_B_8bar",
+    "frames": 708922,
+    "peak": 0.46040766542305067,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Fill_1bar",
+    "frames": 88615,
+    "peak": 0.4608016102745049,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Fill_2bar",
+    "frames": 177231,
+    "peak": 0.43541324554775135,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Fill_4bar",
+    "frames": 354461,
+    "peak": 0.40732542972668107,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Fill_8bar",
+    "frames": 708922,
+    "peak": 0.4651478773298633,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Break_1bar",
+    "frames": 88615,
+    "peak": 0.4957067894297671,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Break_2bar",
+    "frames": 177231,
+    "peak": 0.5047294570368267,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Break_4bar",
+    "frames": 354461,
+    "peak": 0.5055454543297362,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Break_8bar",
+    "frames": 708922,
+    "peak": 0.5079926772571932,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Ending_1bar",
+    "frames": 88615,
+    "peak": 0.48383620480639633,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Ending_2bar",
+    "frames": 177231,
+    "peak": 0.45442354679263697,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Ending_4bar",
+    "frames": 354461,
+    "peak": 0.41412966105768256,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_130BPM_Ending_8bar",
+    "frames": 708922,
+    "peak": 0.46128154829901163,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Intro_1bar",
+    "frames": 72000,
+    "peak": 0.3683027800654158,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Intro_2bar",
+    "frames": 144000,
+    "peak": 0.4322971624233452,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Intro_4bar",
+    "frames": 288000,
+    "peak": 0.42080636176817854,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Intro_8bar",
+    "frames": 576000,
+    "peak": 0.45899004721648684,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Main_1bar",
+    "frames": 72000,
+    "peak": 0.38543698360653184,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Main_2bar",
+    "frames": 144000,
+    "peak": 0.3757586219624105,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Main_4bar",
+    "frames": 288000,
+    "peak": 0.41123519495987326,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Main_8bar",
+    "frames": 576000,
+    "peak": 0.4257034098838015,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Variation_A_1bar",
+    "frames": 72000,
+    "peak": 0.32655947005768804,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Variation_A_2bar",
+    "frames": 144000,
+    "peak": 0.387715127354245,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Variation_A_4bar",
+    "frames": 288000,
+    "peak": 0.3940033506409005,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Variation_A_8bar",
+    "frames": 576000,
+    "peak": 0.4584406898922676,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Variation_B_1bar",
+    "frames": 72000,
+    "peak": 0.3446027759839863,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Variation_B_2bar",
+    "frames": 144000,
+    "peak": 0.41078515897679446,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Variation_B_4bar",
+    "frames": 288000,
+    "peak": 0.43264305631623257,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Variation_B_8bar",
+    "frames": 576000,
+    "peak": 0.4118407194625375,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Fill_1bar",
+    "frames": 72000,
+    "peak": 0.3990757944750529,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Fill_2bar",
+    "frames": 144000,
+    "peak": 0.49618912898188233,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Fill_4bar",
+    "frames": 288000,
+    "peak": 0.4503054963479987,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Fill_8bar",
+    "frames": 576000,
+    "peak": 0.48966510274590946,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Break_1bar",
+    "frames": 72000,
+    "peak": 0.4754350114120309,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Break_2bar",
+    "frames": 144000,
+    "peak": 0.4712662368167719,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Break_4bar",
+    "frames": 288000,
+    "peak": 0.4788526526949729,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Break_8bar",
+    "frames": 576000,
+    "peak": 0.47934777885286745,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Ending_1bar",
+    "frames": 72000,
+    "peak": 0.4314559847675972,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Ending_2bar",
+    "frames": 144000,
+    "peak": 0.4171303604647028,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Ending_4bar",
+    "frames": 288000,
+    "peak": 0.4074494768937542,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_4_4_160BPM_Ending_8bar",
+    "frames": 576000,
+    "peak": 0.4571572591705702,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Intro_1bar",
+    "frames": 86400,
+    "peak": 0.5842230625057199,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Intro_2bar",
+    "frames": 172800,
+    "peak": 0.5230213207975092,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Intro_4bar",
+    "frames": 345600,
+    "peak": 0.5229048001327655,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Intro_8bar",
+    "frames": 691200,
+    "peak": 0.5588460395372297,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Main_1bar",
+    "frames": 86400,
+    "peak": 0.4779360019306217,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Main_2bar",
+    "frames": 172800,
+    "peak": 0.4930716421223321,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Main_4bar",
+    "frames": 345600,
+    "peak": 0.4872253746665968,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Main_8bar",
+    "frames": 691200,
+    "peak": 0.5126627868696407,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Variation_A_1bar",
+    "frames": 86400,
+    "peak": 0.5198955031972426,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Variation_A_2bar",
+    "frames": 172800,
+    "peak": 0.523803753902337,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Variation_A_4bar",
+    "frames": 345600,
+    "peak": 0.5379226824157503,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Variation_A_8bar",
+    "frames": 691200,
+    "peak": 0.5560711265261543,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Variation_B_1bar",
+    "frames": 86400,
+    "peak": 0.5139769451770348,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Variation_B_2bar",
+    "frames": 172800,
+    "peak": 0.4722799159181835,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Variation_B_4bar",
+    "frames": 345600,
+    "peak": 0.499299920040666,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Variation_B_8bar",
+    "frames": 691200,
+    "peak": 0.4884130107519469,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Fill_1bar",
+    "frames": 86400,
+    "peak": 0.40690962181020746,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Fill_2bar",
+    "frames": 172800,
+    "peak": 0.46623238155320235,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Fill_4bar",
+    "frames": 345600,
+    "peak": 0.47971889352552427,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Fill_8bar",
+    "frames": 691200,
+    "peak": 0.543158754239567,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Break_1bar",
+    "frames": 86400,
+    "peak": 0.4876830453354011,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Break_2bar",
+    "frames": 172800,
+    "peak": 0.48895248915607525,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Break_4bar",
+    "frames": 345600,
+    "peak": 0.5182676218111963,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Break_8bar",
+    "frames": 691200,
+    "peak": 0.5259914158694102,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Ending_1bar",
+    "frames": 86400,
+    "peak": 0.461071712639215,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Ending_2bar",
+    "frames": 172800,
+    "peak": 0.4645806126077702,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Ending_4bar",
+    "frames": 345600,
+    "peak": 0.49081298491295267,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_100BPM_Ending_8bar",
+    "frames": 691200,
+    "peak": 0.5296937191267678,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Intro_1bar",
+    "frames": 66461,
+    "peak": 0.5296110261332155,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Intro_2bar",
+    "frames": 132923,
+    "peak": 0.4717738510569993,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Intro_4bar",
+    "frames": 265846,
+    "peak": 0.525683594797015,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Intro_8bar",
+    "frames": 531692,
+    "peak": 0.47367142205038754,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Main_1bar",
+    "frames": 66461,
+    "peak": 0.43873219489441384,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Main_2bar",
+    "frames": 132923,
+    "peak": 0.4197084237597876,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Main_4bar",
+    "frames": 265846,
+    "peak": 0.47677808168783437,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Main_8bar",
+    "frames": 531692,
+    "peak": 0.4615563855450078,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Variation_A_1bar",
+    "frames": 66461,
+    "peak": 0.44899216541194903,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Variation_A_2bar",
+    "frames": 132923,
+    "peak": 0.45731114776488724,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Variation_A_4bar",
+    "frames": 265846,
+    "peak": 0.48361652400726834,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Variation_A_8bar",
+    "frames": 531692,
+    "peak": 0.4972606646230217,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Variation_B_1bar",
+    "frames": 66461,
+    "peak": 0.39952385234322907,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Variation_B_2bar",
+    "frames": 132923,
+    "peak": 0.46326908426902363,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Variation_B_4bar",
+    "frames": 265846,
+    "peak": 0.4455237418140892,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Variation_B_8bar",
+    "frames": 531692,
+    "peak": 0.4672425613888719,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Fill_1bar",
+    "frames": 66461,
+    "peak": 0.4022259930667356,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Fill_2bar",
+    "frames": 132923,
+    "peak": 0.45455413349728774,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Fill_4bar",
+    "frames": 265846,
+    "peak": 0.46485270544094853,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Fill_8bar",
+    "frames": 531692,
+    "peak": 0.48689134636486303,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Break_1bar",
+    "frames": 66461,
+    "peak": 0.4586945271926261,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Break_2bar",
+    "frames": 132923,
+    "peak": 0.47032381958839325,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Break_4bar",
+    "frames": 265846,
+    "peak": 0.46818226498502336,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Break_8bar",
+    "frames": 531692,
+    "peak": 0.47166508024963,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Ending_1bar",
+    "frames": 66461,
+    "peak": 0.40257365667213146,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Ending_2bar",
+    "frames": 132923,
+    "peak": 0.4682306839523227,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Ending_4bar",
+    "frames": 265846,
+    "peak": 0.49890973457092197,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_130BPM_Ending_8bar",
+    "frames": 531692,
+    "peak": 0.43963788318234587,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Intro_1bar",
+    "frames": 54000,
+    "peak": 0.42147807349113,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Intro_2bar",
+    "frames": 108000,
+    "peak": 0.46059725278479047,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Intro_4bar",
+    "frames": 216000,
+    "peak": 0.422916552194189,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Intro_8bar",
+    "frames": 432000,
+    "peak": 0.4375086488466922,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Main_1bar",
+    "frames": 54000,
+    "peak": 0.37620840359917523,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Main_2bar",
+    "frames": 108000,
+    "peak": 0.39623335449977715,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Main_4bar",
+    "frames": 216000,
+    "peak": 0.3989458749671226,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Main_8bar",
+    "frames": 432000,
+    "peak": 0.42748874478977517,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Variation_A_1bar",
+    "frames": 54000,
+    "peak": 0.40359275064316663,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Variation_A_2bar",
+    "frames": 108000,
+    "peak": 0.4208457956172179,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Variation_A_4bar",
+    "frames": 216000,
+    "peak": 0.4427376083246084,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Variation_A_8bar",
+    "frames": 432000,
+    "peak": 0.43556757437466037,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Variation_B_1bar",
+    "frames": 54000,
+    "peak": 0.40207911402348717,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Variation_B_2bar",
+    "frames": 108000,
+    "peak": 0.3805197908168478,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Variation_B_4bar",
+    "frames": 216000,
+    "peak": 0.4193186466867779,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Variation_B_8bar",
+    "frames": 432000,
+    "peak": 0.46324213287697896,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Fill_1bar",
+    "frames": 54000,
+    "peak": 0.36953416757272506,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Fill_2bar",
+    "frames": 108000,
+    "peak": 0.44039011238793446,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Fill_4bar",
+    "frames": 216000,
+    "peak": 0.4669137618222415,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Fill_8bar",
+    "frames": 432000,
+    "peak": 0.48816321932777146,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Break_1bar",
+    "frames": 54000,
+    "peak": 0.4051836633358634,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Break_2bar",
+    "frames": 108000,
+    "peak": 0.4123866982989083,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Break_4bar",
+    "frames": 216000,
+    "peak": 0.44467432860721406,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Break_8bar",
+    "frames": 432000,
+    "peak": 0.4358765918868638,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Ending_1bar",
+    "frames": 54000,
+    "peak": 0.36419171315695475,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Ending_2bar",
+    "frames": 108000,
+    "peak": 0.3691298112759325,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Ending_4bar",
+    "frames": 216000,
+    "peak": 0.3986678130869865,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Garba_6_8_160BPM_Ending_8bar",
+    "frames": 432000,
+    "peak": 0.44065502096724124,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Intro_1bar",
+    "frames": 104727,
+    "peak": 0.632049969906069,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Intro_2bar",
+    "frames": 209455,
+    "peak": 0.6000206760704938,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Intro_4bar",
+    "frames": 418909,
+    "peak": 0.6024732416579115,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Intro_8bar",
+    "frames": 837819,
+    "peak": 0.5869027271773026,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Main_1bar",
+    "frames": 104727,
+    "peak": 0.5345215662574408,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Main_2bar",
+    "frames": 209455,
+    "peak": 0.5503379889915646,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Main_4bar",
+    "frames": 418909,
+    "peak": 0.5852786700911509,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Main_8bar",
+    "frames": 837819,
+    "peak": 0.5508386431063886,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Variation_A_1bar",
+    "frames": 104727,
+    "peak": 0.543714848619023,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Variation_A_2bar",
+    "frames": 209455,
+    "peak": 0.5586845836682564,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Variation_A_4bar",
+    "frames": 418909,
+    "peak": 0.5571333641834013,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Variation_A_8bar",
+    "frames": 837819,
+    "peak": 0.5603449513143313,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Variation_B_1bar",
+    "frames": 104727,
+    "peak": 0.5810831877656809,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Variation_B_2bar",
+    "frames": 209455,
+    "peak": 0.5970753430248149,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Variation_B_4bar",
+    "frames": 418909,
+    "peak": 0.5558617864660022,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Variation_B_8bar",
+    "frames": 837819,
+    "peak": 0.5595359525916079,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Fill_1bar",
+    "frames": 104727,
+    "peak": 0.5670959822589425,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Fill_2bar",
+    "frames": 209455,
+    "peak": 0.574313342395466,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Fill_4bar",
+    "frames": 418909,
+    "peak": 0.6861595105093478,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Fill_8bar",
+    "frames": 837819,
+    "peak": 0.6849802139126593,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Break_1bar",
+    "frames": 104727,
+    "peak": 0.7548155974684743,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Break_2bar",
+    "frames": 209455,
+    "peak": 0.754863085548329,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Break_4bar",
+    "frames": 418909,
+    "peak": 0.7548905943807546,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Break_8bar",
+    "frames": 837819,
+    "peak": 0.7548689399542657,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Ending_1bar",
+    "frames": 104727,
+    "peak": 0.6444449282625905,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Ending_2bar",
+    "frames": 209455,
+    "peak": 0.6447062802240561,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Ending_4bar",
+    "frames": 418909,
+    "peak": 0.5782986776708549,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_110BPM_Ending_8bar",
+    "frames": 837819,
+    "peak": 0.5473711820948918,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Intro_1bar",
+    "frames": 85333,
+    "peak": 0.5727356970234855,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Intro_2bar",
+    "frames": 170666,
+    "peak": 0.6199605025104081,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Intro_4bar",
+    "frames": 341333,
+    "peak": 0.5508133068290473,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Intro_8bar",
+    "frames": 682666,
+    "peak": 0.5869010533585599,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Main_1bar",
+    "frames": 85333,
+    "peak": 0.5224742438452464,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Main_2bar",
+    "frames": 170666,
+    "peak": 0.5493492412367167,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Main_4bar",
+    "frames": 341333,
+    "peak": 0.5350378095807922,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Main_8bar",
+    "frames": 682666,
+    "peak": 0.5789317421899347,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Variation_A_1bar",
+    "frames": 85333,
+    "peak": 0.5183273584198529,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Variation_A_2bar",
+    "frames": 170666,
+    "peak": 0.5080554031878907,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Variation_A_4bar",
+    "frames": 341333,
+    "peak": 0.5139337579333089,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Variation_A_8bar",
+    "frames": 682666,
+    "peak": 0.5185060360922739,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Variation_B_1bar",
+    "frames": 85333,
+    "peak": 0.4891794139263807,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Variation_B_2bar",
+    "frames": 170666,
+    "peak": 0.5434620972514932,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Variation_B_4bar",
+    "frames": 341333,
+    "peak": 0.5250000762026337,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Variation_B_8bar",
+    "frames": 682666,
+    "peak": 0.5276593327033756,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Fill_1bar",
+    "frames": 85333,
+    "peak": 0.5742397059415485,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Fill_2bar",
+    "frames": 170666,
+    "peak": 0.544717526771996,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Fill_4bar",
+    "frames": 341333,
+    "peak": 0.5341482237765843,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Fill_8bar",
+    "frames": 682666,
+    "peak": 0.5292184778212954,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Break_1bar",
+    "frames": 85333,
+    "peak": 0.6812541703559299,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Break_2bar",
+    "frames": 170666,
+    "peak": 0.6814193353411527,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Break_4bar",
+    "frames": 341333,
+    "peak": 0.6816826437718784,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Break_8bar",
+    "frames": 682666,
+    "peak": 0.6815396503379965,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Ending_1bar",
+    "frames": 85333,
+    "peak": 0.5892607770851942,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Ending_2bar",
+    "frames": 170666,
+    "peak": 0.5635229419482515,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Ending_4bar",
+    "frames": 341333,
+    "peak": 0.6079095041922722,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_135BPM_Ending_8bar",
+    "frames": 682666,
+    "peak": 0.5567032277431313,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Intro_1bar",
+    "frames": 72000,
+    "peak": 0.524463692828135,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Intro_2bar",
+    "frames": 144000,
+    "peak": 0.5141116382631665,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Intro_4bar",
+    "frames": 288000,
+    "peak": 0.5491937570865928,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Intro_8bar",
+    "frames": 576000,
+    "peak": 0.5429709168910849,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Main_1bar",
+    "frames": 72000,
+    "peak": 0.4985359808390398,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Main_2bar",
+    "frames": 144000,
+    "peak": 0.5515407236193922,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Main_4bar",
+    "frames": 288000,
+    "peak": 0.5641979785184269,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Main_8bar",
+    "frames": 576000,
+    "peak": 0.5436697476618475,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Variation_A_1bar",
+    "frames": 72000,
+    "peak": 0.465589972805304,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Variation_A_2bar",
+    "frames": 144000,
+    "peak": 0.4732380592317965,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Variation_A_4bar",
+    "frames": 288000,
+    "peak": 0.4818909845287564,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Variation_A_8bar",
+    "frames": 576000,
+    "peak": 0.49073642645274074,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Variation_B_1bar",
+    "frames": 72000,
+    "peak": 0.5113372857667831,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Variation_B_2bar",
+    "frames": 144000,
+    "peak": 0.5098851219721349,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Variation_B_4bar",
+    "frames": 288000,
+    "peak": 0.5394373242852296,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Variation_B_8bar",
+    "frames": 576000,
+    "peak": 0.5423636758075854,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Fill_1bar",
+    "frames": 72000,
+    "peak": 0.5204524498196124,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Fill_2bar",
+    "frames": 144000,
+    "peak": 0.608316677517628,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Fill_4bar",
+    "frames": 288000,
+    "peak": 0.6188791792740334,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Fill_8bar",
+    "frames": 576000,
+    "peak": 0.6123196176456374,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Break_1bar",
+    "frames": 72000,
+    "peak": 0.6265788885588628,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Break_2bar",
+    "frames": 144000,
+    "peak": 0.6260987633495152,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Break_4bar",
+    "frames": 288000,
+    "peak": 0.626677922695852,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Break_8bar",
+    "frames": 576000,
+    "peak": 0.6268317549511145,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Ending_1bar",
+    "frames": 72000,
+    "peak": 0.5535564310695597,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Ending_2bar",
+    "frames": 144000,
+    "peak": 0.5544376298302728,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Ending_4bar",
+    "frames": 288000,
+    "peak": 0.5127231055486319,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Dandiya_Raas_160BPM_Ending_8bar",
+    "frames": 576000,
+    "peak": 0.5782239974461365,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Intro_1bar",
+    "frames": 128000,
+    "peak": 0.49069420527248725,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Intro_2bar",
+    "frames": 256000,
+    "peak": 0.4470597545496674,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Intro_4bar",
+    "frames": 512000,
+    "peak": 0.43059781977144096,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Intro_8bar",
+    "frames": 1024001,
+    "peak": 0.5117382824458067,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Main_1bar",
+    "frames": 128000,
+    "peak": 0.48575810889174215,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Main_2bar",
+    "frames": 256000,
+    "peak": 0.42324397024599597,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Main_4bar",
+    "frames": 512000,
+    "peak": 0.46433224703399417,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Main_8bar",
+    "frames": 1024001,
+    "peak": 0.4749561198177702,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Variation_A_1bar",
+    "frames": 128000,
+    "peak": 0.42628082768058934,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Variation_A_2bar",
+    "frames": 256000,
+    "peak": 0.43027917088394596,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Variation_A_4bar",
+    "frames": 512000,
+    "peak": 0.4413721991595541,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Variation_A_8bar",
+    "frames": 1024001,
+    "peak": 0.4540071054669933,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Variation_B_1bar",
+    "frames": 128000,
+    "peak": 0.45468773001102347,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Variation_B_2bar",
+    "frames": 256000,
+    "peak": 0.4477367818140025,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Variation_B_4bar",
+    "frames": 512000,
+    "peak": 0.4213233516237626,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Variation_B_8bar",
+    "frames": 1024001,
+    "peak": 0.4839639576229071,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Fill_1bar",
+    "frames": 128000,
+    "peak": 0.46325818902905125,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Fill_2bar",
+    "frames": 256000,
+    "peak": 0.4179264757741086,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Fill_4bar",
+    "frames": 512000,
+    "peak": 0.4720357442931557,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Fill_8bar",
+    "frames": 1024001,
+    "peak": 0.48432700348166136,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Break_1bar",
+    "frames": 128000,
+    "peak": 0.5118046404751925,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Break_2bar",
+    "frames": 256000,
+    "peak": 0.5207248214572325,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Break_4bar",
+    "frames": 512000,
+    "peak": 0.5211206104404248,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Break_8bar",
+    "frames": 1024001,
+    "peak": 0.5251810001450334,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Ending_1bar",
+    "frames": 128000,
+    "peak": 0.4759777556100626,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Ending_2bar",
+    "frames": 256000,
+    "peak": 0.5128781758419653,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Ending_4bar",
+    "frames": 512000,
+    "peak": 0.5067607880394387,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_090BPM_Ending_8bar",
+    "frames": 1024001,
+    "peak": 0.4679228431380791,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Intro_1bar",
+    "frames": 96000,
+    "peak": 0.3858403633023717,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Intro_2bar",
+    "frames": 192000,
+    "peak": 0.4149108615329498,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Intro_4bar",
+    "frames": 384000,
+    "peak": 0.4337695943368655,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Intro_8bar",
+    "frames": 768000,
+    "peak": 0.4181561244789713,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Main_1bar",
+    "frames": 96000,
+    "peak": 0.35772924468954154,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Main_2bar",
+    "frames": 192000,
+    "peak": 0.43119160459660427,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Main_4bar",
+    "frames": 384000,
+    "peak": 0.41649037055400095,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Main_8bar",
+    "frames": 768000,
+    "peak": 0.4262997017039054,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Variation_A_1bar",
+    "frames": 96000,
+    "peak": 0.36886622917997836,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Variation_A_2bar",
+    "frames": 192000,
+    "peak": 0.4076835750011092,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Variation_A_4bar",
+    "frames": 384000,
+    "peak": 0.4200312463546919,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Variation_A_8bar",
+    "frames": 768000,
+    "peak": 0.40754357869605823,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Variation_B_1bar",
+    "frames": 96000,
+    "peak": 0.36615682463290267,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Variation_B_2bar",
+    "frames": 192000,
+    "peak": 0.3810030116599547,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Variation_B_4bar",
+    "frames": 384000,
+    "peak": 0.4053783770209654,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Variation_B_8bar",
+    "frames": 768000,
+    "peak": 0.42066756162834057,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Fill_1bar",
+    "frames": 96000,
+    "peak": 0.4476108896963532,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Fill_2bar",
+    "frames": 192000,
+    "peak": 0.4182020702558677,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Fill_4bar",
+    "frames": 384000,
+    "peak": 0.40189624041305566,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Fill_8bar",
+    "frames": 768000,
+    "peak": 0.4363774961641425,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Break_1bar",
+    "frames": 96000,
+    "peak": 0.44515499590225044,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Break_2bar",
+    "frames": 192000,
+    "peak": 0.45736866285644634,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Break_4bar",
+    "frames": 384000,
+    "peak": 0.4576515947525377,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Break_8bar",
+    "frames": 768000,
+    "peak": 0.4633088127848231,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Ending_1bar",
+    "frames": 96000,
+    "peak": 0.42888079755822234,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Ending_2bar",
+    "frames": 192000,
+    "peak": 0.42668959976252957,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Ending_4bar",
+    "frames": 384000,
+    "peak": 0.38399250842844623,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_120BPM_Ending_8bar",
+    "frames": 768000,
+    "peak": 0.4055631085687834,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Intro_1bar",
+    "frames": 76800,
+    "peak": 0.38643007284804703,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Intro_2bar",
+    "frames": 153600,
+    "peak": 0.3700985170538547,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Intro_4bar",
+    "frames": 307200,
+    "peak": 0.41890022462400006,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Intro_8bar",
+    "frames": 614400,
+    "peak": 0.41542654424473613,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Main_1bar",
+    "frames": 76800,
+    "peak": 0.3429540129198459,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Main_2bar",
+    "frames": 153600,
+    "peak": 0.358988625154336,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Main_4bar",
+    "frames": 307200,
+    "peak": 0.41572743794044087,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Main_8bar",
+    "frames": 614400,
+    "peak": 0.3705690120145643,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Variation_A_1bar",
+    "frames": 76800,
+    "peak": 0.40915547480170694,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Variation_A_2bar",
+    "frames": 153600,
+    "peak": 0.40544905142383836,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Variation_A_4bar",
+    "frames": 307200,
+    "peak": 0.4188741769367469,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Variation_A_8bar",
+    "frames": 614400,
+    "peak": 0.4365678055641936,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Variation_B_1bar",
+    "frames": 76800,
+    "peak": 0.3727856458666554,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Variation_B_2bar",
+    "frames": 153600,
+    "peak": 0.3948737554356481,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Variation_B_4bar",
+    "frames": 307200,
+    "peak": 0.41015240735844266,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Variation_B_8bar",
+    "frames": 614400,
+    "peak": 0.38605463253199074,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Fill_1bar",
+    "frames": 76800,
+    "peak": 0.34428261414862865,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Fill_2bar",
+    "frames": 153600,
+    "peak": 0.3611072683412389,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Fill_4bar",
+    "frames": 307200,
+    "peak": 0.3608310542210501,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Fill_8bar",
+    "frames": 614400,
+    "peak": 0.4026845744262607,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Break_1bar",
+    "frames": 76800,
+    "peak": 0.3858981236040817,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Break_2bar",
+    "frames": 153600,
+    "peak": 0.424355658566545,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Break_4bar",
+    "frames": 307200,
+    "peak": 0.43328553573590023,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Break_8bar",
+    "frames": 614400,
+    "peak": 0.4328786730073369,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Ending_1bar",
+    "frames": 76800,
+    "peak": 0.3942999490563414,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Ending_2bar",
+    "frames": 153600,
+    "peak": 0.39766876580988175,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Ending_4bar",
+    "frames": 307200,
+    "peak": 0.38821729880395356,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Punjabi_Bhangra_150BPM_Ending_8bar",
+    "frames": 614400,
+    "peak": 0.399534554695539,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Intro_1bar",
+    "frames": 115200,
+    "peak": 0.5240839420615931,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Intro_2bar",
+    "frames": 230400,
+    "peak": 0.5363213751012506,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Intro_4bar",
+    "frames": 460800,
+    "peak": 0.5275345738040665,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Intro_8bar",
+    "frames": 921600,
+    "peak": 0.5241656047813051,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Main_1bar",
+    "frames": 115200,
+    "peak": 0.5169593327047027,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Main_2bar",
+    "frames": 230400,
+    "peak": 0.5217818172898723,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Main_4bar",
+    "frames": 460800,
+    "peak": 0.5053287199554043,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Main_8bar",
+    "frames": 921600,
+    "peak": 0.5241662237635346,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Variation_A_1bar",
+    "frames": 115200,
+    "peak": 0.4560934157252745,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Variation_A_2bar",
+    "frames": 230400,
+    "peak": 0.4744851097051938,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Variation_A_4bar",
+    "frames": 460800,
+    "peak": 0.4709026833415215,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Variation_A_8bar",
+    "frames": 921600,
+    "peak": 0.45892740447944774,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Variation_B_1bar",
+    "frames": 115200,
+    "peak": 0.517833674615182,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Variation_B_2bar",
+    "frames": 230400,
+    "peak": 0.5516225155351319,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Variation_B_4bar",
+    "frames": 460800,
+    "peak": 0.526286080804966,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Variation_B_8bar",
+    "frames": 921600,
+    "peak": 0.5190965773056231,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Fill_1bar",
+    "frames": 115200,
+    "peak": 0.5407811149710254,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Fill_2bar",
+    "frames": 230400,
+    "peak": 0.5561946095385674,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Fill_4bar",
+    "frames": 460800,
+    "peak": 0.6321416779889087,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Fill_8bar",
+    "frames": 921600,
+    "peak": 0.5868640818693678,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Break_1bar",
+    "frames": 115200,
+    "peak": 0.5302225067749445,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Break_2bar",
+    "frames": 230400,
+    "peak": 0.5319775898794662,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Break_4bar",
+    "frames": 460800,
+    "peak": 0.5294475846363427,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Break_8bar",
+    "frames": 921600,
+    "peak": 0.5358292203161849,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Ending_1bar",
+    "frames": 115200,
+    "peak": 0.5658135582586717,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Ending_2bar",
+    "frames": 230400,
+    "peak": 0.5486337566632997,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Ending_4bar",
+    "frames": 460800,
+    "peak": 0.5334907536831552,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_100BPM_Ending_8bar",
+    "frames": 921600,
+    "peak": 0.51982853875865,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Intro_1bar",
+    "frames": 96000,
+    "peak": 0.4870334496292023,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Intro_2bar",
+    "frames": 192000,
+    "peak": 0.48877471858466937,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Intro_4bar",
+    "frames": 384000,
+    "peak": 0.523213593768619,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Intro_8bar",
+    "frames": 768000,
+    "peak": 0.49816483371950687,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Main_1bar",
+    "frames": 96000,
+    "peak": 0.47298780987728506,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Main_2bar",
+    "frames": 192000,
+    "peak": 0.47958059915192214,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Main_4bar",
+    "frames": 384000,
+    "peak": 0.4729373346784074,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Main_8bar",
+    "frames": 768000,
+    "peak": 0.4837201762397719,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Variation_A_1bar",
+    "frames": 96000,
+    "peak": 0.4324868239864975,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Variation_A_2bar",
+    "frames": 192000,
+    "peak": 0.4333534302624205,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Variation_A_4bar",
+    "frames": 384000,
+    "peak": 0.4478113816806804,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Variation_A_8bar",
+    "frames": 768000,
+    "peak": 0.4793020244481213,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Variation_B_1bar",
+    "frames": 96000,
+    "peak": 0.4678836687418785,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Variation_B_2bar",
+    "frames": 192000,
+    "peak": 0.497644567264448,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Variation_B_4bar",
+    "frames": 384000,
+    "peak": 0.4897775684189855,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Variation_B_8bar",
+    "frames": 768000,
+    "peak": 0.4902487118555088,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Fill_1bar",
+    "frames": 96000,
+    "peak": 0.47880929819596973,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Fill_2bar",
+    "frames": 192000,
+    "peak": 0.5016894246556418,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Fill_4bar",
+    "frames": 384000,
+    "peak": 0.5469326655986818,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Fill_8bar",
+    "frames": 768000,
+    "peak": 0.5171842980209003,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Break_1bar",
+    "frames": 96000,
+    "peak": 0.4928431987927823,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Break_2bar",
+    "frames": 192000,
+    "peak": 0.49918625006351114,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Break_4bar",
+    "frames": 384000,
+    "peak": 0.4929235429660932,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Break_8bar",
+    "frames": 768000,
+    "peak": 0.49564899051195116,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Ending_1bar",
+    "frames": 96000,
+    "peak": 0.47393216947472544,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Ending_2bar",
+    "frames": 192000,
+    "peak": 0.49709746125087334,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Ending_4bar",
+    "frames": 384000,
+    "peak": 0.49698051829752904,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_120BPM_Ending_8bar",
+    "frames": 768000,
+    "peak": 0.484756950425132,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Intro_1bar",
+    "frames": 82286,
+    "peak": 0.460565444693991,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Intro_2bar",
+    "frames": 164571,
+    "peak": 0.47602775210848525,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Intro_4bar",
+    "frames": 329143,
+    "peak": 0.4729210642232937,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Intro_8bar",
+    "frames": 658285,
+    "peak": 0.4742182784952712,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Main_1bar",
+    "frames": 82286,
+    "peak": 0.4396396761695528,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Main_2bar",
+    "frames": 164571,
+    "peak": 0.44805877986350556,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Main_4bar",
+    "frames": 329143,
+    "peak": 0.4617913155247043,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Main_8bar",
+    "frames": 658285,
+    "peak": 0.4673258546232474,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Variation_A_1bar",
+    "frames": 82286,
+    "peak": 0.39800065327844325,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Variation_A_2bar",
+    "frames": 164571,
+    "peak": 0.45768441696522527,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Variation_A_4bar",
+    "frames": 329143,
+    "peak": 0.4449125441192346,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Variation_A_8bar",
+    "frames": 658285,
+    "peak": 0.43919129238197485,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Variation_B_1bar",
+    "frames": 82286,
+    "peak": 0.4365736147361621,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Variation_B_2bar",
+    "frames": 164571,
+    "peak": 0.46030507585301284,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Variation_B_4bar",
+    "frames": 329143,
+    "peak": 0.4753418848439437,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Variation_B_8bar",
+    "frames": 658285,
+    "peak": 0.47090767006005535,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Fill_1bar",
+    "frames": 82286,
+    "peak": 0.4796093178571748,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Fill_2bar",
+    "frames": 164571,
+    "peak": 0.5099088756044436,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Fill_4bar",
+    "frames": 329143,
+    "peak": 0.5356100009079728,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Fill_8bar",
+    "frames": 658285,
+    "peak": 0.5478639317683724,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Break_1bar",
+    "frames": 82286,
+    "peak": 0.4631155466087622,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Break_2bar",
+    "frames": 164571,
+    "peak": 0.4606396559444509,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Break_4bar",
+    "frames": 329143,
+    "peak": 0.46032543986409724,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Break_8bar",
+    "frames": 658285,
+    "peak": 0.4645576542099501,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Ending_1bar",
+    "frames": 82286,
+    "peak": 0.4879471428400719,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Ending_2bar",
+    "frames": 164571,
+    "peak": 0.4692949093773054,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Ending_4bar",
+    "frames": 329143,
+    "peak": 0.47162393165623445,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Dance_140BPM_Ending_8bar",
+    "frames": 658285,
+    "peak": 0.48644774213120673,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Intro_1bar",
+    "frames": 177231,
+    "peak": 0.6794502019083561,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Intro_2bar",
+    "frames": 354462,
+    "peak": 0.6464962832036398,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Intro_4bar",
+    "frames": 708923,
+    "peak": 0.6327764703180961,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Intro_8bar",
+    "frames": 1417846,
+    "peak": 0.6291432371600144,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Main_1bar",
+    "frames": 177231,
+    "peak": 0.599784080837543,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Main_2bar",
+    "frames": 354462,
+    "peak": 0.6105552476681878,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Main_4bar",
+    "frames": 708923,
+    "peak": 0.6164366667499878,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Main_8bar",
+    "frames": 1417846,
+    "peak": 0.6205761229454908,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Variation_A_1bar",
+    "frames": 177231,
+    "peak": 0.6452828090534314,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Variation_A_2bar",
+    "frames": 354462,
+    "peak": 0.621608602438604,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Variation_A_4bar",
+    "frames": 708923,
+    "peak": 0.619740099125094,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Variation_A_8bar",
+    "frames": 1417846,
+    "peak": 0.6746450947163405,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Variation_B_1bar",
+    "frames": 177231,
+    "peak": 0.6194925865463992,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Variation_B_2bar",
+    "frames": 354462,
+    "peak": 0.609202714213729,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Variation_B_4bar",
+    "frames": 708923,
+    "peak": 0.6226686187903387,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Variation_B_8bar",
+    "frames": 1417846,
+    "peak": 0.6107907007983235,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Fill_1bar",
+    "frames": 177231,
+    "peak": 0.45002617242934223,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Fill_2bar",
+    "frames": 354462,
+    "peak": 0.5804445361028775,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Fill_4bar",
+    "frames": 708923,
+    "peak": 0.5925950175546714,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Fill_8bar",
+    "frames": 1417846,
+    "peak": 0.6381186212294104,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Break_1bar",
+    "frames": 177231,
+    "peak": 0.868481052202082,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Break_2bar",
+    "frames": 354462,
+    "peak": 0.8708747433976955,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Break_4bar",
+    "frames": 708923,
+    "peak": 0.8712630561516456,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Break_8bar",
+    "frames": 1417846,
+    "peak": 0.8706083040985674,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Ending_1bar",
+    "frames": 177231,
+    "peak": 0.7229566576302624,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Ending_2bar",
+    "frames": 354462,
+    "peak": 0.6552657127995882,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Ending_4bar",
+    "frames": 708923,
+    "peak": 0.6425919709429316,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_065BPM_Ending_8bar",
+    "frames": 1417846,
+    "peak": 0.6351318911584792,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Intro_1bar",
+    "frames": 135529,
+    "peak": 0.6313315970128122,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Intro_2bar",
+    "frames": 271059,
+    "peak": 0.5842097145149091,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Intro_4bar",
+    "frames": 542117,
+    "peak": 0.5715656018782258,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Intro_8bar",
+    "frames": 1084235,
+    "peak": 0.5627021326777313,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Main_1bar",
+    "frames": 135529,
+    "peak": 0.5610711149125118,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Main_2bar",
+    "frames": 271059,
+    "peak": 0.5342017119099943,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Main_4bar",
+    "frames": 542117,
+    "peak": 0.5605640299923279,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Main_8bar",
+    "frames": 1084235,
+    "peak": 0.557067948572801,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Variation_A_1bar",
+    "frames": 135529,
+    "peak": 0.5440863902348256,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Variation_A_2bar",
+    "frames": 271059,
+    "peak": 0.5647110968712779,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Variation_A_4bar",
+    "frames": 542117,
+    "peak": 0.5397098317357708,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Variation_A_8bar",
+    "frames": 1084235,
+    "peak": 0.6169876504237408,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Variation_B_1bar",
+    "frames": 135529,
+    "peak": 0.5294770001553685,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Variation_B_2bar",
+    "frames": 271059,
+    "peak": 0.558489299479086,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Variation_B_4bar",
+    "frames": 542117,
+    "peak": 0.5547930744027526,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Variation_B_8bar",
+    "frames": 1084235,
+    "peak": 0.55840376896524,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Fill_1bar",
+    "frames": 135529,
+    "peak": 0.41865857910107496,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Fill_2bar",
+    "frames": 271059,
+    "peak": 0.530660547646243,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Fill_4bar",
+    "frames": 542117,
+    "peak": 0.5270936003483081,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Fill_8bar",
+    "frames": 1084235,
+    "peak": 0.5686960874701503,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Break_1bar",
+    "frames": 135529,
+    "peak": 0.7614130101479483,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Break_2bar",
+    "frames": 271059,
+    "peak": 0.7612635611831435,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Break_4bar",
+    "frames": 542117,
+    "peak": 0.7636577600087829,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Break_8bar",
+    "frames": 1084235,
+    "peak": 0.7612040790222913,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Ending_1bar",
+    "frames": 135529,
+    "peak": 0.6727277377187361,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Ending_2bar",
+    "frames": 271059,
+    "peak": 0.5932185241528815,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Ending_4bar",
+    "frames": 542117,
+    "peak": 0.5812658772409788,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_085BPM_Ending_8bar",
+    "frames": 1084235,
+    "peak": 0.5702009803271996,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Intro_1bar",
+    "frames": 109714,
+    "peak": 0.5777872077847389,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Intro_2bar",
+    "frames": 219429,
+    "peak": 0.5213398567610225,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Intro_4bar",
+    "frames": 438857,
+    "peak": 0.5441349837545356,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Intro_8bar",
+    "frames": 877715,
+    "peak": 0.5415628595880304,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Main_1bar",
+    "frames": 109714,
+    "peak": 0.5146056617056028,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Main_2bar",
+    "frames": 219429,
+    "peak": 0.5095331496815753,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Main_4bar",
+    "frames": 438857,
+    "peak": 0.5110155142398627,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Main_8bar",
+    "frames": 877715,
+    "peak": 0.5231724158516018,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Variation_A_1bar",
+    "frames": 109714,
+    "peak": 0.5224650396429125,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Variation_A_2bar",
+    "frames": 219429,
+    "peak": 0.49282696023310296,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Variation_A_4bar",
+    "frames": 438857,
+    "peak": 0.5108375517207786,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Variation_A_8bar",
+    "frames": 877715,
+    "peak": 0.5212010593388644,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Variation_B_1bar",
+    "frames": 109714,
+    "peak": 0.5017909462557292,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Variation_B_2bar",
+    "frames": 219429,
+    "peak": 0.49612981082260554,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Variation_B_4bar",
+    "frames": 438857,
+    "peak": 0.5098715239269012,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Variation_B_8bar",
+    "frames": 877715,
+    "peak": 0.5100312011744859,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Fill_1bar",
+    "frames": 109714,
+    "peak": 0.4359690025973127,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Fill_2bar",
+    "frames": 219429,
+    "peak": 0.45246989986135755,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Fill_4bar",
+    "frames": 438857,
+    "peak": 0.5089197585308837,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Fill_8bar",
+    "frames": 877715,
+    "peak": 0.513782682018649,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Break_1bar",
+    "frames": 109714,
+    "peak": 0.681461935096717,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Break_2bar",
+    "frames": 219429,
+    "peak": 0.6806869719827285,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Break_4bar",
+    "frames": 438857,
+    "peak": 0.6839654708867663,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Break_8bar",
+    "frames": 877715,
+    "peak": 0.6839571811876254,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Ending_1bar",
+    "frames": 109714,
+    "peak": 0.5704066234789289,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Ending_2bar",
+    "frames": 219429,
+    "peak": 0.5630978431853523,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Ending_4bar",
+    "frames": 438857,
+    "peak": 0.5449546351851837,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_4_4_105BPM_Ending_8bar",
+    "frames": 877715,
+    "peak": 0.528601080602905,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Intro_1bar",
+    "frames": 132923,
+    "peak": 0.634810384683457,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Intro_2bar",
+    "frames": 265846,
+    "peak": 0.5511167007104256,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Intro_4bar",
+    "frames": 531692,
+    "peak": 0.5535190532572148,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Intro_8bar",
+    "frames": 1063385,
+    "peak": 0.5465164780627478,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Main_1bar",
+    "frames": 132923,
+    "peak": 0.5313006330415236,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Main_2bar",
+    "frames": 265846,
+    "peak": 0.5325329265338052,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Main_4bar",
+    "frames": 531692,
+    "peak": 0.5304091164874246,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Main_8bar",
+    "frames": 1063385,
+    "peak": 0.535863903699935,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Variation_A_1bar",
+    "frames": 132923,
+    "peak": 0.45103752454438417,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Variation_A_2bar",
+    "frames": 265846,
+    "peak": 0.46140182164111526,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Variation_A_4bar",
+    "frames": 531692,
+    "peak": 0.46384110527817785,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Variation_A_8bar",
+    "frames": 1063385,
+    "peak": 0.46395676791410256,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Variation_B_1bar",
+    "frames": 132923,
+    "peak": 0.5064055740307705,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Variation_B_2bar",
+    "frames": 265846,
+    "peak": 0.5339516075667589,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Variation_B_4bar",
+    "frames": 531692,
+    "peak": 0.5385616406135371,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Variation_B_8bar",
+    "frames": 1063385,
+    "peak": 0.5358865132021257,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Fill_1bar",
+    "frames": 132923,
+    "peak": 0.408315415830153,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Fill_2bar",
+    "frames": 265846,
+    "peak": 0.48622776000463547,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Fill_4bar",
+    "frames": 531692,
+    "peak": 0.5108589605691682,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Fill_8bar",
+    "frames": 1063385,
+    "peak": 0.5206204820482748,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Break_1bar",
+    "frames": 132923,
+    "peak": 0.6616401411993139,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Break_2bar",
+    "frames": 265846,
+    "peak": 0.6546388592190889,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Break_4bar",
+    "frames": 531692,
+    "peak": 0.6552514944972724,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Break_8bar",
+    "frames": 1063385,
+    "peak": 0.6548586927363582,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Ending_1bar",
+    "frames": 132923,
+    "peak": 0.5977409551674693,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Ending_2bar",
+    "frames": 265846,
+    "peak": 0.5507268348846042,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Ending_4bar",
+    "frames": 531692,
+    "peak": 0.5514321246667062,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_065BPM_Ending_8bar",
+    "frames": 1063385,
+    "peak": 0.5391282084603631,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Intro_1bar",
+    "frames": 101647,
+    "peak": 0.5447075122118037,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Intro_2bar",
+    "frames": 203294,
+    "peak": 0.5215773007078539,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Intro_4bar",
+    "frames": 406588,
+    "peak": 0.5044330798719648,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Intro_8bar",
+    "frames": 813176,
+    "peak": 0.4962846779789539,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Main_1bar",
+    "frames": 101647,
+    "peak": 0.47933838892804126,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Main_2bar",
+    "frames": 203294,
+    "peak": 0.4702305081619605,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Main_4bar",
+    "frames": 406588,
+    "peak": 0.48490731475838394,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Main_8bar",
+    "frames": 813176,
+    "peak": 0.4760119640537845,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Variation_A_1bar",
+    "frames": 101647,
+    "peak": 0.41600407737267775,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Variation_A_2bar",
+    "frames": 203294,
+    "peak": 0.4198655875262402,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Variation_A_4bar",
+    "frames": 406588,
+    "peak": 0.4275556947607606,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Variation_A_8bar",
+    "frames": 813176,
+    "peak": 0.4186654631500103,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Variation_B_1bar",
+    "frames": 101647,
+    "peak": 0.4785064645787145,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Variation_B_2bar",
+    "frames": 203294,
+    "peak": 0.4805260233216036,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Variation_B_4bar",
+    "frames": 406588,
+    "peak": 0.46982434609190715,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Variation_B_8bar",
+    "frames": 813176,
+    "peak": 0.48235028803413943,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Fill_1bar",
+    "frames": 101647,
+    "peak": 0.40783012767354704,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Fill_2bar",
+    "frames": 203294,
+    "peak": 0.4538685536648702,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Fill_4bar",
+    "frames": 406588,
+    "peak": 0.5003797308062602,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Fill_8bar",
+    "frames": 813176,
+    "peak": 0.4634858705633117,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Break_1bar",
+    "frames": 101647,
+    "peak": 0.5839735900140317,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Break_2bar",
+    "frames": 203294,
+    "peak": 0.5778242640321015,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Break_4bar",
+    "frames": 406588,
+    "peak": 0.5741468615774864,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Break_8bar",
+    "frames": 813176,
+    "peak": 0.5774860651033226,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Ending_1bar",
+    "frames": 101647,
+    "peak": 0.5247188142285443,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Ending_2bar",
+    "frames": 203294,
+    "peak": 0.49176222010480325,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Ending_4bar",
+    "frames": 406588,
+    "peak": 0.4791156515998847,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_085BPM_Ending_8bar",
+    "frames": 813176,
+    "peak": 0.4907116684019477,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Intro_1bar",
+    "frames": 82286,
+    "peak": 0.49682689545432296,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Intro_2bar",
+    "frames": 164572,
+    "peak": 0.47854526046524415,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Intro_4bar",
+    "frames": 329143,
+    "peak": 0.4674305426879668,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Intro_8bar",
+    "frames": 658286,
+    "peak": 0.4550572499505778,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Main_1bar",
+    "frames": 82286,
+    "peak": 0.4415604737124878,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Main_2bar",
+    "frames": 164572,
+    "peak": 0.43329386086543614,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Main_4bar",
+    "frames": 329143,
+    "peak": 0.44578795646642533,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Main_8bar",
+    "frames": 658286,
+    "peak": 0.4379938319498986,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Variation_A_1bar",
+    "frames": 82286,
+    "peak": 0.3764951585189205,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Variation_A_2bar",
+    "frames": 164572,
+    "peak": 0.38611452707755567,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Variation_A_4bar",
+    "frames": 329143,
+    "peak": 0.4018180737579574,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Variation_A_8bar",
+    "frames": 658286,
+    "peak": 0.39572894362062855,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Variation_B_1bar",
+    "frames": 82286,
+    "peak": 0.44379143833285206,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Variation_B_2bar",
+    "frames": 164572,
+    "peak": 0.45044180520575827,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Variation_B_4bar",
+    "frames": 329143,
+    "peak": 0.4248286703174387,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Variation_B_8bar",
+    "frames": 658286,
+    "peak": 0.4539610211357134,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Fill_1bar",
+    "frames": 82286,
+    "peak": 0.35744303053708915,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Fill_2bar",
+    "frames": 164572,
+    "peak": 0.4495344667740733,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Fill_4bar",
+    "frames": 329143,
+    "peak": 0.4782822093420086,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Fill_8bar",
+    "frames": 658286,
+    "peak": 0.42990651578501426,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Break_1bar",
+    "frames": 82286,
+    "peak": 0.5114593706735362,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Break_2bar",
+    "frames": 164572,
+    "peak": 0.5060576845274052,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Break_4bar",
+    "frames": 329143,
+    "peak": 0.5277724491730817,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Break_8bar",
+    "frames": 658286,
+    "peak": 0.5260894557900677,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Ending_1bar",
+    "frames": 82286,
+    "peak": 0.4714259537052522,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Ending_2bar",
+    "frames": 164572,
+    "peak": 0.42789651011486035,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Ending_4bar",
+    "frames": 329143,
+    "peak": 0.43996298891562846,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Bollywood_Romantic_6_8_105BPM_Ending_8bar",
+    "frames": 658286,
+    "peak": 0.44482203327013997,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Intro_1bar",
+    "frames": 121263,
+    "peak": 0.4793036062333297,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Intro_2bar",
+    "frames": 242526,
+    "peak": 0.45828804006230567,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Intro_4bar",
+    "frames": 485053,
+    "peak": 0.47067288110884214,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Intro_8bar",
+    "frames": 970105,
+    "peak": 0.4698189142502427,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Main_1bar",
+    "frames": 121263,
+    "peak": 0.42562362189723957,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Main_2bar",
+    "frames": 242526,
+    "peak": 0.46537146119130063,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Main_4bar",
+    "frames": 485053,
+    "peak": 0.45986008192282596,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Main_8bar",
+    "frames": 970105,
+    "peak": 0.4652749780648672,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Variation_A_1bar",
+    "frames": 121263,
+    "peak": 0.43524446077750184,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Variation_A_2bar",
+    "frames": 242526,
+    "peak": 0.44984462053075225,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Variation_A_4bar",
+    "frames": 485053,
+    "peak": 0.45057230795054437,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Variation_A_8bar",
+    "frames": 970105,
+    "peak": 0.46535574069755664,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Variation_B_1bar",
+    "frames": 121263,
+    "peak": 0.4338812090414506,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Variation_B_2bar",
+    "frames": 242526,
+    "peak": 0.4654319971666435,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Variation_B_4bar",
+    "frames": 485053,
+    "peak": 0.4452044246378114,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Variation_B_8bar",
+    "frames": 970105,
+    "peak": 0.46640079268844725,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Fill_1bar",
+    "frames": 121263,
+    "peak": 0.4245884208146076,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Fill_2bar",
+    "frames": 242526,
+    "peak": 0.42755817155897724,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Fill_4bar",
+    "frames": 485053,
+    "peak": 0.46918313450433125,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Fill_8bar",
+    "frames": 970105,
+    "peak": 0.45304397978790323,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Break_1bar",
+    "frames": 121263,
+    "peak": 0.5516533976056366,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Break_2bar",
+    "frames": 242526,
+    "peak": 0.5463918732892133,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Break_4bar",
+    "frames": 485053,
+    "peak": 0.5478725768801334,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Break_8bar",
+    "frames": 970105,
+    "peak": 0.5599585262913668,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Ending_1bar",
+    "frames": 121263,
+    "peak": 0.49410206404743345,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Ending_2bar",
+    "frames": 242526,
+    "peak": 0.44995107623579084,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Ending_4bar",
+    "frames": 485053,
+    "peak": 0.4642561839851832,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_095BPM_Ending_8bar",
+    "frames": 970105,
+    "peak": 0.4713402525729832,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Intro_1bar",
+    "frames": 92160,
+    "peak": 0.4291847079116136,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Intro_2bar",
+    "frames": 184320,
+    "peak": 0.4318068287805332,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Intro_4bar",
+    "frames": 368640,
+    "peak": 0.4201642028431707,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Intro_8bar",
+    "frames": 737280,
+    "peak": 0.4364895023475962,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Main_1bar",
+    "frames": 92160,
+    "peak": 0.3634883677984008,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Main_2bar",
+    "frames": 184320,
+    "peak": 0.428266424719348,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Main_4bar",
+    "frames": 368640,
+    "peak": 0.42371543737526385,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Main_8bar",
+    "frames": 737280,
+    "peak": 0.43035126815042757,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Variation_A_1bar",
+    "frames": 92160,
+    "peak": 0.3558311934562039,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Variation_A_2bar",
+    "frames": 184320,
+    "peak": 0.43718668899705504,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Variation_A_4bar",
+    "frames": 368640,
+    "peak": 0.40079591932984476,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Variation_A_8bar",
+    "frames": 737280,
+    "peak": 0.40322369465818525,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Variation_B_1bar",
+    "frames": 92160,
+    "peak": 0.3952965672698264,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Variation_B_2bar",
+    "frames": 184320,
+    "peak": 0.4231487730159557,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Variation_B_4bar",
+    "frames": 368640,
+    "peak": 0.42954316898910244,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Variation_B_8bar",
+    "frames": 737280,
+    "peak": 0.43551819128404917,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Fill_1bar",
+    "frames": 92160,
+    "peak": 0.42080387345747766,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Fill_2bar",
+    "frames": 184320,
+    "peak": 0.44805300539742127,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Fill_4bar",
+    "frames": 368640,
+    "peak": 0.4191792527510684,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Fill_8bar",
+    "frames": 737280,
+    "peak": 0.4330483649424834,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Break_1bar",
+    "frames": 92160,
+    "peak": 0.47300508215566206,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Break_2bar",
+    "frames": 184320,
+    "peak": 0.467441768133475,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Break_4bar",
+    "frames": 368640,
+    "peak": 0.4888647580594838,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Break_8bar",
+    "frames": 737280,
+    "peak": 0.5094314142908499,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Ending_1bar",
+    "frames": 92160,
+    "peak": 0.40639187601225885,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Ending_2bar",
+    "frames": 184320,
+    "peak": 0.43314294344411297,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Ending_4bar",
+    "frames": 368640,
+    "peak": 0.4335798853857429,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_125BPM_Ending_8bar",
+    "frames": 737280,
+    "peak": 0.4182945883370378,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Intro_1bar",
+    "frames": 74323,
+    "peak": 0.4084309987546588,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Intro_2bar",
+    "frames": 148645,
+    "peak": 0.39958943233011196,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Intro_4bar",
+    "frames": 297290,
+    "peak": 0.4145112078162466,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Intro_8bar",
+    "frames": 594581,
+    "peak": 0.40512007790336707,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Main_1bar",
+    "frames": 74323,
+    "peak": 0.3568749009574599,
+    "rms_dbfs": -22.000000000000007
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Main_2bar",
+    "frames": 148645,
+    "peak": 0.3834464701110567,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Main_4bar",
+    "frames": 297290,
+    "peak": 0.39996879986295253,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Main_8bar",
+    "frames": 594581,
+    "peak": 0.4009599376440005,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Variation_A_1bar",
+    "frames": 74323,
+    "peak": 0.3206636026488587,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Variation_A_2bar",
+    "frames": 148645,
+    "peak": 0.35325641546346076,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Variation_A_4bar",
+    "frames": 297290,
+    "peak": 0.39702787314802757,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Variation_A_8bar",
+    "frames": 594581,
+    "peak": 0.3891052228489438,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Variation_B_1bar",
+    "frames": 74323,
+    "peak": 0.3762762110580483,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Variation_B_2bar",
+    "frames": 148645,
+    "peak": 0.3624961833173469,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Variation_B_4bar",
+    "frames": 297290,
+    "peak": 0.38328518743813067,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Variation_B_8bar",
+    "frames": 594581,
+    "peak": 0.37866539748957956,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Fill_1bar",
+    "frames": 74323,
+    "peak": 0.3329004526927107,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Fill_2bar",
+    "frames": 148645,
+    "peak": 0.4102413029015164,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Fill_4bar",
+    "frames": 297290,
+    "peak": 0.4753804615527178,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Fill_8bar",
+    "frames": 594581,
+    "peak": 0.4025035211787716,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Break_1bar",
+    "frames": 74323,
+    "peak": 0.46845317234105627,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Break_2bar",
+    "frames": 148645,
+    "peak": 0.48179013074724597,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Break_4bar",
+    "frames": 297290,
+    "peak": 0.4592158404064026,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Break_8bar",
+    "frames": 594581,
+    "peak": 0.45395086256422523,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Ending_1bar",
+    "frames": 74323,
+    "peak": 0.3972837604191984,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Ending_2bar",
+    "frames": 148645,
+    "peak": 0.3836698443477387,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Ending_4bar",
+    "frames": 297290,
+    "peak": 0.3910287509595809,
+    "rms_dbfs": -22.0
+  },
+  {
+    "stem": "Wedding_Dhol_155BPM_Ending_8bar",
+    "frames": 594581,
+    "peak": 0.399059200077156,
+    "rms_dbfs": -22.0
+  }
+]

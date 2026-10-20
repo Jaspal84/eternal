@@ -1,0 +1,75 @@
+// Original synthesized approximations. MIDI note numbers are authoritative.
+<control> default_path=../
+<global> loop_mode=one_shot ampeg_release=0.03 amp_veltrack=0
+<group> key=69 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Kick_Open_v1_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Kick_Open_v1_rr2.wav
+<group> key=69 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Kick_Open_v2_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Kick_Open_v2_rr2.wav
+<group> key=69 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Kick_Open_v3_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Kick_Open_v3_rr2.wav
+<group> key=70 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Kick_Muted_v1_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Kick_Muted_v1_rr2.wav
+<group> key=70 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Kick_Muted_v2_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Kick_Muted_v2_rr2.wav
+<group> key=70 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Kick_Muted_v3_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Kick_Muted_v3_rr2.wav
+<group> key=71 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Snare_Open_v1_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Snare_Open_v1_rr2.wav
+<group> key=71 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Snare_Open_v2_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Snare_Open_v2_rr2.wav
+<group> key=71 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Snare_Open_v3_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Snare_Open_v3_rr2.wav
+<group> key=72 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Snare_Muted_v1_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Snare_Muted_v1_rr2.wav
+<group> key=72 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Snare_Muted_v2_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Snare_Muted_v2_rr2.wav
+<group> key=72 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Snare_Muted_v3_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Snare_Muted_v3_rr2.wav
+<group> key=73 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Clap_Open_v1_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Clap_Open_v1_rr2.wav
+<group> key=73 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Clap_Open_v2_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Clap_Open_v2_rr2.wav
+<group> key=73 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Clap_Open_v3_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Clap_Open_v3_rr2.wav
+<group> key=74 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Clap_Muted_v1_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Clap_Muted_v1_rr2.wav
+<group> key=74 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Clap_Muted_v2_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Clap_Muted_v2_rr2.wav
+<group> key=74 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Clap_Muted_v3_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Clap_Muted_v3_rr2.wav
+<group> key=75 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Hat_Open_v1_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Hat_Open_v1_rr2.wav
+<group> key=75 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Hat_Open_v2_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Hat_Open_v2_rr2.wav
+<group> key=75 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Hat_Open_v3_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Hat_Open_v3_rr2.wav
+<group> key=76 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Hat_Muted_v1_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Hat_Muted_v1_rr2.wav
+<group> key=76 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Hat_Muted_v2_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Hat_Muted_v2_rr2.wav
+<group> key=76 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=08_Bollywood_Drums/SYNTH_Electronic_Hat_Muted_v3_rr1.wav
+<region> seq_position=2 sample=08_Bollywood_Drums/SYNTH_Electronic_Hat_Muted_v3_rr2.wav

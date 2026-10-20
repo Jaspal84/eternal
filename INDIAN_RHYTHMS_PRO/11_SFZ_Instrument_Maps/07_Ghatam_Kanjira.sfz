@@ -1,0 +1,39 @@
+// Original synthesized approximations. MIDI note numbers are authoritative.
+<control> default_path=../
+<global> loop_mode=one_shot ampeg_release=0.03 amp_veltrack=0
+<group> key=65 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=07_Ghatam_Kanjira/SYNTH_Ghatam_Open_v1_rr1.wav
+<region> seq_position=2 sample=07_Ghatam_Kanjira/SYNTH_Ghatam_Open_v1_rr2.wav
+<group> key=65 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=07_Ghatam_Kanjira/SYNTH_Ghatam_Open_v2_rr1.wav
+<region> seq_position=2 sample=07_Ghatam_Kanjira/SYNTH_Ghatam_Open_v2_rr2.wav
+<group> key=65 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=07_Ghatam_Kanjira/SYNTH_Ghatam_Open_v3_rr1.wav
+<region> seq_position=2 sample=07_Ghatam_Kanjira/SYNTH_Ghatam_Open_v3_rr2.wav
+<group> key=66 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=07_Ghatam_Kanjira/SYNTH_Ghatam_Muted_v1_rr1.wav
+<region> seq_position=2 sample=07_Ghatam_Kanjira/SYNTH_Ghatam_Muted_v1_rr2.wav
+<group> key=66 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=07_Ghatam_Kanjira/SYNTH_Ghatam_Muted_v2_rr1.wav
+<region> seq_position=2 sample=07_Ghatam_Kanjira/SYNTH_Ghatam_Muted_v2_rr2.wav
+<group> key=66 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=07_Ghatam_Kanjira/SYNTH_Ghatam_Muted_v3_rr1.wav
+<region> seq_position=2 sample=07_Ghatam_Kanjira/SYNTH_Ghatam_Muted_v3_rr2.wav
+<group> key=67 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=07_Ghatam_Kanjira/SYNTH_Kanjira_Open_v1_rr1.wav
+<region> seq_position=2 sample=07_Ghatam_Kanjira/SYNTH_Kanjira_Open_v1_rr2.wav
+<group> key=67 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=07_Ghatam_Kanjira/SYNTH_Kanjira_Open_v2_rr1.wav
+<region> seq_position=2 sample=07_Ghatam_Kanjira/SYNTH_Kanjira_Open_v2_rr2.wav
+<group> key=67 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=07_Ghatam_Kanjira/SYNTH_Kanjira_Open_v3_rr1.wav
+<region> seq_position=2 sample=07_Ghatam_Kanjira/SYNTH_Kanjira_Open_v3_rr2.wav
+<group> key=68 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=07_Ghatam_Kanjira/SYNTH_Kanjira_Muted_v1_rr1.wav
+<region> seq_position=2 sample=07_Ghatam_Kanjira/SYNTH_Kanjira_Muted_v1_rr2.wav
+<group> key=68 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=07_Ghatam_Kanjira/SYNTH_Kanjira_Muted_v2_rr1.wav
+<region> seq_position=2 sample=07_Ghatam_Kanjira/SYNTH_Kanjira_Muted_v2_rr2.wav
+<group> key=68 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=07_Ghatam_Kanjira/SYNTH_Kanjira_Muted_v3_rr1.wav
+<region> seq_position=2 sample=07_Ghatam_Kanjira/SYNTH_Kanjira_Muted_v3_rr2.wav

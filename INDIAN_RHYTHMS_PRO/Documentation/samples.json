@@ -1,0 +1,1970 @@
+[
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Na_v1_rr1.wav",
+    "name": "Tabla_Na",
+    "note": 36,
+    "layer": 1,
+    "rr": 1,
+    "frames": 106800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Na_v1_rr2.wav",
+    "name": "Tabla_Na",
+    "note": 36,
+    "layer": 1,
+    "rr": 2,
+    "frames": 106800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Na_v2_rr1.wav",
+    "name": "Tabla_Na",
+    "note": 36,
+    "layer": 2,
+    "rr": 1,
+    "frames": 106800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Na_v2_rr2.wav",
+    "name": "Tabla_Na",
+    "note": 36,
+    "layer": 2,
+    "rr": 2,
+    "frames": 106800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Na_v3_rr1.wav",
+    "name": "Tabla_Na",
+    "note": 36,
+    "layer": 3,
+    "rr": 1,
+    "frames": 106800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Na_v3_rr2.wav",
+    "name": "Tabla_Na",
+    "note": 36,
+    "layer": 3,
+    "rr": 2,
+    "frames": 106800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Tin_v1_rr1.wav",
+    "name": "Tabla_Tin",
+    "note": 37,
+    "layer": 1,
+    "rr": 1,
+    "frames": 202800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Tin_v1_rr2.wav",
+    "name": "Tabla_Tin",
+    "note": 37,
+    "layer": 1,
+    "rr": 2,
+    "frames": 202800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Tin_v2_rr1.wav",
+    "name": "Tabla_Tin",
+    "note": 37,
+    "layer": 2,
+    "rr": 1,
+    "frames": 202800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Tin_v2_rr2.wav",
+    "name": "Tabla_Tin",
+    "note": 37,
+    "layer": 2,
+    "rr": 2,
+    "frames": 202800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Tin_v3_rr1.wav",
+    "name": "Tabla_Tin",
+    "note": 37,
+    "layer": 3,
+    "rr": 1,
+    "frames": 202800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Tin_v3_rr2.wav",
+    "name": "Tabla_Tin",
+    "note": 37,
+    "layer": 3,
+    "rr": 2,
+    "frames": 202800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Tun_v1_rr1.wav",
+    "name": "Tabla_Tun",
+    "note": 38,
+    "layer": 1,
+    "rr": 1,
+    "frames": 313200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Tun_v1_rr2.wav",
+    "name": "Tabla_Tun",
+    "note": 38,
+    "layer": 1,
+    "rr": 2,
+    "frames": 313200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Tun_v2_rr1.wav",
+    "name": "Tabla_Tun",
+    "note": 38,
+    "layer": 2,
+    "rr": 1,
+    "frames": 313200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Tun_v2_rr2.wav",
+    "name": "Tabla_Tun",
+    "note": 38,
+    "layer": 2,
+    "rr": 2,
+    "frames": 313200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Tun_v3_rr1.wav",
+    "name": "Tabla_Tun",
+    "note": 38,
+    "layer": 3,
+    "rr": 1,
+    "frames": 313200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Tun_v3_rr2.wav",
+    "name": "Tabla_Tun",
+    "note": 38,
+    "layer": 3,
+    "rr": 2,
+    "frames": 313200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ta_v1_rr1.wav",
+    "name": "Tabla_Ta",
+    "note": 39,
+    "layer": 1,
+    "rr": 1,
+    "frames": 37200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ta_v1_rr2.wav",
+    "name": "Tabla_Ta",
+    "note": 39,
+    "layer": 1,
+    "rr": 2,
+    "frames": 37200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ta_v2_rr1.wav",
+    "name": "Tabla_Ta",
+    "note": 39,
+    "layer": 2,
+    "rr": 1,
+    "frames": 37200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ta_v2_rr2.wav",
+    "name": "Tabla_Ta",
+    "note": 39,
+    "layer": 2,
+    "rr": 2,
+    "frames": 37200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ta_v3_rr1.wav",
+    "name": "Tabla_Ta",
+    "note": 39,
+    "layer": 3,
+    "rr": 1,
+    "frames": 37200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ta_v3_rr2.wav",
+    "name": "Tabla_Ta",
+    "note": 39,
+    "layer": 3,
+    "rr": 2,
+    "frames": 37200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Dha_v1_rr1.wav",
+    "name": "Tabla_Dha",
+    "note": 40,
+    "layer": 1,
+    "rr": 1,
+    "frames": 222000
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Dha_v1_rr2.wav",
+    "name": "Tabla_Dha",
+    "note": 40,
+    "layer": 1,
+    "rr": 2,
+    "frames": 222000
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Dha_v2_rr1.wav",
+    "name": "Tabla_Dha",
+    "note": 40,
+    "layer": 2,
+    "rr": 1,
+    "frames": 222000
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Dha_v2_rr2.wav",
+    "name": "Tabla_Dha",
+    "note": 40,
+    "layer": 2,
+    "rr": 2,
+    "frames": 222000
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Dha_v3_rr1.wav",
+    "name": "Tabla_Dha",
+    "note": 40,
+    "layer": 3,
+    "rr": 1,
+    "frames": 222000
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Dha_v3_rr2.wav",
+    "name": "Tabla_Dha",
+    "note": 40,
+    "layer": 3,
+    "rr": 2,
+    "frames": 222000
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Dhin_v1_rr1.wav",
+    "name": "Tabla_Dhin",
+    "note": 41,
+    "layer": 1,
+    "rr": 1,
+    "frames": 250800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Dhin_v1_rr2.wav",
+    "name": "Tabla_Dhin",
+    "note": 41,
+    "layer": 1,
+    "rr": 2,
+    "frames": 250800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Dhin_v2_rr1.wav",
+    "name": "Tabla_Dhin",
+    "note": 41,
+    "layer": 2,
+    "rr": 1,
+    "frames": 250800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Dhin_v2_rr2.wav",
+    "name": "Tabla_Dhin",
+    "note": 41,
+    "layer": 2,
+    "rr": 2,
+    "frames": 250800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Dhin_v3_rr1.wav",
+    "name": "Tabla_Dhin",
+    "note": 41,
+    "layer": 3,
+    "rr": 1,
+    "frames": 250800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Dhin_v3_rr2.wav",
+    "name": "Tabla_Dhin",
+    "note": 41,
+    "layer": 3,
+    "rr": 2,
+    "frames": 250800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ge_v1_rr1.wav",
+    "name": "Tabla_Ge",
+    "note": 42,
+    "layer": 1,
+    "rr": 1,
+    "frames": 241200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ge_v1_rr2.wav",
+    "name": "Tabla_Ge",
+    "note": 42,
+    "layer": 1,
+    "rr": 2,
+    "frames": 241200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ge_v2_rr1.wav",
+    "name": "Tabla_Ge",
+    "note": 42,
+    "layer": 2,
+    "rr": 1,
+    "frames": 241200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ge_v2_rr2.wav",
+    "name": "Tabla_Ge",
+    "note": 42,
+    "layer": 2,
+    "rr": 2,
+    "frames": 241200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ge_v3_rr1.wav",
+    "name": "Tabla_Ge",
+    "note": 42,
+    "layer": 3,
+    "rr": 1,
+    "frames": 241200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ge_v3_rr2.wav",
+    "name": "Tabla_Ge",
+    "note": 42,
+    "layer": 3,
+    "rr": 2,
+    "frames": 241200
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ke_v1_rr1.wav",
+    "name": "Tabla_Ke",
+    "note": 43,
+    "layer": 1,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ke_v1_rr2.wav",
+    "name": "Tabla_Ke",
+    "note": 43,
+    "layer": 1,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ke_v2_rr1.wav",
+    "name": "Tabla_Ke",
+    "note": 43,
+    "layer": 2,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ke_v2_rr2.wav",
+    "name": "Tabla_Ke",
+    "note": 43,
+    "layer": 2,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ke_v3_rr1.wav",
+    "name": "Tabla_Ke",
+    "note": 43,
+    "layer": 3,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "01_Tabla/SYNTH_Tabla_Ke_v3_rr2.wav",
+    "name": "Tabla_Ke",
+    "note": 43,
+    "layer": 3,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Bass_Open_v1_rr1.wav",
+    "name": "Dholak_Bass_Open",
+    "note": 44,
+    "layer": 1,
+    "rr": 1,
+    "frames": 193200
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Bass_Open_v1_rr2.wav",
+    "name": "Dholak_Bass_Open",
+    "note": 44,
+    "layer": 1,
+    "rr": 2,
+    "frames": 193200
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Bass_Open_v2_rr1.wav",
+    "name": "Dholak_Bass_Open",
+    "note": 44,
+    "layer": 2,
+    "rr": 1,
+    "frames": 193200
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Bass_Open_v2_rr2.wav",
+    "name": "Dholak_Bass_Open",
+    "note": 44,
+    "layer": 2,
+    "rr": 2,
+    "frames": 193200
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Bass_Open_v3_rr1.wav",
+    "name": "Dholak_Bass_Open",
+    "note": 44,
+    "layer": 3,
+    "rr": 1,
+    "frames": 193200
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Bass_Open_v3_rr2.wav",
+    "name": "Dholak_Bass_Open",
+    "note": 44,
+    "layer": 3,
+    "rr": 2,
+    "frames": 193200
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Bass_Muted_v1_rr1.wav",
+    "name": "Dholak_Bass_Muted",
+    "note": 45,
+    "layer": 1,
+    "rr": 1,
+    "frames": 44400
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Bass_Muted_v1_rr2.wav",
+    "name": "Dholak_Bass_Muted",
+    "note": 45,
+    "layer": 1,
+    "rr": 2,
+    "frames": 44400
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Bass_Muted_v2_rr1.wav",
+    "name": "Dholak_Bass_Muted",
+    "note": 45,
+    "layer": 2,
+    "rr": 1,
+    "frames": 44400
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Bass_Muted_v2_rr2.wav",
+    "name": "Dholak_Bass_Muted",
+    "note": 45,
+    "layer": 2,
+    "rr": 2,
+    "frames": 44400
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Bass_Muted_v3_rr1.wav",
+    "name": "Dholak_Bass_Muted",
+    "note": 45,
+    "layer": 3,
+    "rr": 1,
+    "frames": 44400
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Bass_Muted_v3_rr2.wav",
+    "name": "Dholak_Bass_Muted",
+    "note": 45,
+    "layer": 3,
+    "rr": 2,
+    "frames": 44400
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Treble_Open_v1_rr1.wav",
+    "name": "Dholak_Treble_Open",
+    "note": 46,
+    "layer": 1,
+    "rr": 1,
+    "frames": 135600
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Treble_Open_v1_rr2.wav",
+    "name": "Dholak_Treble_Open",
+    "note": 46,
+    "layer": 1,
+    "rr": 2,
+    "frames": 135600
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Treble_Open_v2_rr1.wav",
+    "name": "Dholak_Treble_Open",
+    "note": 46,
+    "layer": 2,
+    "rr": 1,
+    "frames": 135600
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Treble_Open_v2_rr2.wav",
+    "name": "Dholak_Treble_Open",
+    "note": 46,
+    "layer": 2,
+    "rr": 2,
+    "frames": 135600
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Treble_Open_v3_rr1.wav",
+    "name": "Dholak_Treble_Open",
+    "note": 46,
+    "layer": 3,
+    "rr": 1,
+    "frames": 135600
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Treble_Open_v3_rr2.wav",
+    "name": "Dholak_Treble_Open",
+    "note": 46,
+    "layer": 3,
+    "rr": 2,
+    "frames": 135600
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Treble_Muted_v1_rr1.wav",
+    "name": "Dholak_Treble_Muted",
+    "note": 47,
+    "layer": 1,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Treble_Muted_v1_rr2.wav",
+    "name": "Dholak_Treble_Muted",
+    "note": 47,
+    "layer": 1,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Treble_Muted_v2_rr1.wav",
+    "name": "Dholak_Treble_Muted",
+    "note": 47,
+    "layer": 2,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Treble_Muted_v2_rr2.wav",
+    "name": "Dholak_Treble_Muted",
+    "note": 47,
+    "layer": 2,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Treble_Muted_v3_rr1.wav",
+    "name": "Dholak_Treble_Muted",
+    "note": 47,
+    "layer": 3,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "02_Dholak/SYNTH_Dholak_Treble_Muted_v3_rr2.wav",
+    "name": "Dholak_Treble_Muted",
+    "note": 47,
+    "layer": 3,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Dagga_Open_v1_rr1.wav",
+    "name": "Dhol_Dagga_Open",
+    "note": 48,
+    "layer": 1,
+    "rr": 1,
+    "frames": 265200
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Dagga_Open_v1_rr2.wav",
+    "name": "Dhol_Dagga_Open",
+    "note": 48,
+    "layer": 1,
+    "rr": 2,
+    "frames": 265200
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Dagga_Open_v2_rr1.wav",
+    "name": "Dhol_Dagga_Open",
+    "note": 48,
+    "layer": 2,
+    "rr": 1,
+    "frames": 265200
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Dagga_Open_v2_rr2.wav",
+    "name": "Dhol_Dagga_Open",
+    "note": 48,
+    "layer": 2,
+    "rr": 2,
+    "frames": 265200
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Dagga_Open_v3_rr1.wav",
+    "name": "Dhol_Dagga_Open",
+    "note": 48,
+    "layer": 3,
+    "rr": 1,
+    "frames": 265200
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Dagga_Open_v3_rr2.wav",
+    "name": "Dhol_Dagga_Open",
+    "note": 48,
+    "layer": 3,
+    "rr": 2,
+    "frames": 265200
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Dagga_Muted_v1_rr1.wav",
+    "name": "Dhol_Dagga_Muted",
+    "note": 49,
+    "layer": 1,
+    "rr": 1,
+    "frames": 58799
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Dagga_Muted_v1_rr2.wav",
+    "name": "Dhol_Dagga_Muted",
+    "note": 49,
+    "layer": 1,
+    "rr": 2,
+    "frames": 58799
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Dagga_Muted_v2_rr1.wav",
+    "name": "Dhol_Dagga_Muted",
+    "note": 49,
+    "layer": 2,
+    "rr": 1,
+    "frames": 58799
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Dagga_Muted_v2_rr2.wav",
+    "name": "Dhol_Dagga_Muted",
+    "note": 49,
+    "layer": 2,
+    "rr": 2,
+    "frames": 58799
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Dagga_Muted_v3_rr1.wav",
+    "name": "Dhol_Dagga_Muted",
+    "note": 49,
+    "layer": 3,
+    "rr": 1,
+    "frames": 58799
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Dagga_Muted_v3_rr2.wav",
+    "name": "Dhol_Dagga_Muted",
+    "note": 49,
+    "layer": 3,
+    "rr": 2,
+    "frames": 58799
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Tilli_Open_v1_rr1.wav",
+    "name": "Dhol_Tilli_Open",
+    "note": 50,
+    "layer": 1,
+    "rr": 1,
+    "frames": 164400
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Tilli_Open_v1_rr2.wav",
+    "name": "Dhol_Tilli_Open",
+    "note": 50,
+    "layer": 1,
+    "rr": 2,
+    "frames": 164400
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Tilli_Open_v2_rr1.wav",
+    "name": "Dhol_Tilli_Open",
+    "note": 50,
+    "layer": 2,
+    "rr": 1,
+    "frames": 164400
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Tilli_Open_v2_rr2.wav",
+    "name": "Dhol_Tilli_Open",
+    "note": 50,
+    "layer": 2,
+    "rr": 2,
+    "frames": 164400
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Tilli_Open_v3_rr1.wav",
+    "name": "Dhol_Tilli_Open",
+    "note": 50,
+    "layer": 3,
+    "rr": 1,
+    "frames": 164400
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Tilli_Open_v3_rr2.wav",
+    "name": "Dhol_Tilli_Open",
+    "note": 50,
+    "layer": 3,
+    "rr": 2,
+    "frames": 164400
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Tilli_Muted_v1_rr1.wav",
+    "name": "Dhol_Tilli_Muted",
+    "note": 51,
+    "layer": 1,
+    "rr": 1,
+    "frames": 39600
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Tilli_Muted_v1_rr2.wav",
+    "name": "Dhol_Tilli_Muted",
+    "note": 51,
+    "layer": 1,
+    "rr": 2,
+    "frames": 39600
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Tilli_Muted_v2_rr1.wav",
+    "name": "Dhol_Tilli_Muted",
+    "note": 51,
+    "layer": 2,
+    "rr": 1,
+    "frames": 39600
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Tilli_Muted_v2_rr2.wav",
+    "name": "Dhol_Tilli_Muted",
+    "note": 51,
+    "layer": 2,
+    "rr": 2,
+    "frames": 39600
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Tilli_Muted_v3_rr1.wav",
+    "name": "Dhol_Tilli_Muted",
+    "note": 51,
+    "layer": 3,
+    "rr": 1,
+    "frames": 39600
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Tilli_Muted_v3_rr2.wav",
+    "name": "Dhol_Tilli_Muted",
+    "note": 51,
+    "layer": 3,
+    "rr": 2,
+    "frames": 39600
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Accent_v1_rr1.wav",
+    "name": "Dhol_Accent",
+    "note": 52,
+    "layer": 1,
+    "rr": 1,
+    "frames": 231600
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Accent_v1_rr2.wav",
+    "name": "Dhol_Accent",
+    "note": 52,
+    "layer": 1,
+    "rr": 2,
+    "frames": 231600
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Accent_v2_rr1.wav",
+    "name": "Dhol_Accent",
+    "note": 52,
+    "layer": 2,
+    "rr": 1,
+    "frames": 231600
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Accent_v2_rr2.wav",
+    "name": "Dhol_Accent",
+    "note": 52,
+    "layer": 2,
+    "rr": 2,
+    "frames": 231600
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Accent_v3_rr1.wav",
+    "name": "Dhol_Accent",
+    "note": 52,
+    "layer": 3,
+    "rr": 1,
+    "frames": 231600
+  },
+  {
+    "path": "03_Punjabi_Dhol/SYNTH_Dhol_Accent_v3_rr2.wav",
+    "name": "Dhol_Accent",
+    "note": 52,
+    "layer": 3,
+    "rr": 2,
+    "frames": 231600
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Single_Open_v1_rr1.wav",
+    "name": "Dandiya_Single_Open",
+    "note": 53,
+    "layer": 1,
+    "rr": 1,
+    "frames": 58799
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Single_Open_v1_rr2.wav",
+    "name": "Dandiya_Single_Open",
+    "note": 53,
+    "layer": 1,
+    "rr": 2,
+    "frames": 58799
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Single_Open_v2_rr1.wav",
+    "name": "Dandiya_Single_Open",
+    "note": 53,
+    "layer": 2,
+    "rr": 1,
+    "frames": 58799
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Single_Open_v2_rr2.wav",
+    "name": "Dandiya_Single_Open",
+    "note": 53,
+    "layer": 2,
+    "rr": 2,
+    "frames": 58799
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Single_Open_v3_rr1.wav",
+    "name": "Dandiya_Single_Open",
+    "note": 53,
+    "layer": 3,
+    "rr": 1,
+    "frames": 58799
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Single_Open_v3_rr2.wav",
+    "name": "Dandiya_Single_Open",
+    "note": 53,
+    "layer": 3,
+    "rr": 2,
+    "frames": 58799
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Single_Muted_v1_rr1.wav",
+    "name": "Dandiya_Single_Muted",
+    "note": 54,
+    "layer": 1,
+    "rr": 1,
+    "frames": 22800
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Single_Muted_v1_rr2.wav",
+    "name": "Dandiya_Single_Muted",
+    "note": 54,
+    "layer": 1,
+    "rr": 2,
+    "frames": 22800
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Single_Muted_v2_rr1.wav",
+    "name": "Dandiya_Single_Muted",
+    "note": 54,
+    "layer": 2,
+    "rr": 1,
+    "frames": 22800
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Single_Muted_v2_rr2.wav",
+    "name": "Dandiya_Single_Muted",
+    "note": 54,
+    "layer": 2,
+    "rr": 2,
+    "frames": 22800
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Single_Muted_v3_rr1.wav",
+    "name": "Dandiya_Single_Muted",
+    "note": 54,
+    "layer": 3,
+    "rr": 1,
+    "frames": 22800
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Single_Muted_v3_rr2.wav",
+    "name": "Dandiya_Single_Muted",
+    "note": 54,
+    "layer": 3,
+    "rr": 2,
+    "frames": 22800
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Double_v1_rr1.wav",
+    "name": "Dandiya_Double",
+    "note": 55,
+    "layer": 1,
+    "rr": 1,
+    "frames": 67919
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Double_v1_rr2.wav",
+    "name": "Dandiya_Double",
+    "note": 55,
+    "layer": 1,
+    "rr": 2,
+    "frames": 67919
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Double_v2_rr1.wav",
+    "name": "Dandiya_Double",
+    "note": 55,
+    "layer": 2,
+    "rr": 1,
+    "frames": 67919
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Double_v2_rr2.wav",
+    "name": "Dandiya_Double",
+    "note": 55,
+    "layer": 2,
+    "rr": 2,
+    "frames": 67919
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Double_v3_rr1.wav",
+    "name": "Dandiya_Double",
+    "note": 55,
+    "layer": 3,
+    "rr": 1,
+    "frames": 67919
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Double_v3_rr2.wav",
+    "name": "Dandiya_Double",
+    "note": 55,
+    "layer": 3,
+    "rr": 2,
+    "frames": 67919
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Roll_v1_rr1.wav",
+    "name": "Dandiya_Roll",
+    "note": 56,
+    "layer": 1,
+    "rr": 1,
+    "frames": 77520
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Roll_v1_rr2.wav",
+    "name": "Dandiya_Roll",
+    "note": 56,
+    "layer": 1,
+    "rr": 2,
+    "frames": 77520
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Roll_v2_rr1.wav",
+    "name": "Dandiya_Roll",
+    "note": 56,
+    "layer": 2,
+    "rr": 1,
+    "frames": 77520
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Roll_v2_rr2.wav",
+    "name": "Dandiya_Roll",
+    "note": 56,
+    "layer": 2,
+    "rr": 2,
+    "frames": 77520
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Roll_v3_rr1.wav",
+    "name": "Dandiya_Roll",
+    "note": 56,
+    "layer": 3,
+    "rr": 1,
+    "frames": 77520
+  },
+  {
+    "path": "04_Dandiya/SYNTH_Dandiya_Roll_v3_rr2.wav",
+    "name": "Dandiya_Roll",
+    "note": 56,
+    "layer": 3,
+    "rr": 2,
+    "frames": 77520
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Duff_Open_v1_rr1.wav",
+    "name": "Duff_Open",
+    "note": 57,
+    "layer": 1,
+    "rr": 1,
+    "frames": 231600
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Duff_Open_v1_rr2.wav",
+    "name": "Duff_Open",
+    "note": 57,
+    "layer": 1,
+    "rr": 2,
+    "frames": 231600
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Duff_Open_v2_rr1.wav",
+    "name": "Duff_Open",
+    "note": 57,
+    "layer": 2,
+    "rr": 1,
+    "frames": 231600
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Duff_Open_v2_rr2.wav",
+    "name": "Duff_Open",
+    "note": 57,
+    "layer": 2,
+    "rr": 2,
+    "frames": 231600
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Duff_Open_v3_rr1.wav",
+    "name": "Duff_Open",
+    "note": 57,
+    "layer": 3,
+    "rr": 1,
+    "frames": 231600
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Duff_Open_v3_rr2.wav",
+    "name": "Duff_Open",
+    "note": 57,
+    "layer": 3,
+    "rr": 2,
+    "frames": 231600
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Duff_Muted_v1_rr1.wav",
+    "name": "Duff_Muted",
+    "note": 58,
+    "layer": 1,
+    "rr": 1,
+    "frames": 49199
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Duff_Muted_v1_rr2.wav",
+    "name": "Duff_Muted",
+    "note": 58,
+    "layer": 1,
+    "rr": 2,
+    "frames": 49199
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Duff_Muted_v2_rr1.wav",
+    "name": "Duff_Muted",
+    "note": 58,
+    "layer": 2,
+    "rr": 1,
+    "frames": 49199
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Duff_Muted_v2_rr2.wav",
+    "name": "Duff_Muted",
+    "note": 58,
+    "layer": 2,
+    "rr": 2,
+    "frames": 49199
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Duff_Muted_v3_rr1.wav",
+    "name": "Duff_Muted",
+    "note": 58,
+    "layer": 3,
+    "rr": 1,
+    "frames": 49199
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Duff_Muted_v3_rr2.wav",
+    "name": "Duff_Muted",
+    "note": 58,
+    "layer": 3,
+    "rr": 2,
+    "frames": 49199
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Dafli_Open_v1_rr1.wav",
+    "name": "Dafli_Open",
+    "note": 59,
+    "layer": 1,
+    "rr": 1,
+    "frames": 202800
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Dafli_Open_v1_rr2.wav",
+    "name": "Dafli_Open",
+    "note": 59,
+    "layer": 1,
+    "rr": 2,
+    "frames": 202800
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Dafli_Open_v2_rr1.wav",
+    "name": "Dafli_Open",
+    "note": 59,
+    "layer": 2,
+    "rr": 1,
+    "frames": 202800
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Dafli_Open_v2_rr2.wav",
+    "name": "Dafli_Open",
+    "note": 59,
+    "layer": 2,
+    "rr": 2,
+    "frames": 202800
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Dafli_Open_v3_rr1.wav",
+    "name": "Dafli_Open",
+    "note": 59,
+    "layer": 3,
+    "rr": 1,
+    "frames": 202800
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Dafli_Open_v3_rr2.wav",
+    "name": "Dafli_Open",
+    "note": 59,
+    "layer": 3,
+    "rr": 2,
+    "frames": 202800
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Dafli_Muted_v1_rr1.wav",
+    "name": "Dafli_Muted",
+    "note": 60,
+    "layer": 1,
+    "rr": 1,
+    "frames": 49199
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Dafli_Muted_v1_rr2.wav",
+    "name": "Dafli_Muted",
+    "note": 60,
+    "layer": 1,
+    "rr": 2,
+    "frames": 49199
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Dafli_Muted_v2_rr1.wav",
+    "name": "Dafli_Muted",
+    "note": 60,
+    "layer": 2,
+    "rr": 1,
+    "frames": 49199
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Dafli_Muted_v2_rr2.wav",
+    "name": "Dafli_Muted",
+    "note": 60,
+    "layer": 2,
+    "rr": 2,
+    "frames": 49199
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Dafli_Muted_v3_rr1.wav",
+    "name": "Dafli_Muted",
+    "note": 60,
+    "layer": 3,
+    "rr": 1,
+    "frames": 49199
+  },
+  {
+    "path": "05_Duff_Dafli/SYNTH_Dafli_Muted_v3_rr2.wav",
+    "name": "Dafli_Muted",
+    "note": 60,
+    "layer": 3,
+    "rr": 2,
+    "frames": 49199
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Manjira_Open_v1_rr1.wav",
+    "name": "Manjira_Open",
+    "note": 61,
+    "layer": 1,
+    "rr": 1,
+    "frames": 337200
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Manjira_Open_v1_rr2.wav",
+    "name": "Manjira_Open",
+    "note": 61,
+    "layer": 1,
+    "rr": 2,
+    "frames": 337200
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Manjira_Open_v2_rr1.wav",
+    "name": "Manjira_Open",
+    "note": 61,
+    "layer": 2,
+    "rr": 1,
+    "frames": 337200
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Manjira_Open_v2_rr2.wav",
+    "name": "Manjira_Open",
+    "note": 61,
+    "layer": 2,
+    "rr": 2,
+    "frames": 337200
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Manjira_Open_v3_rr1.wav",
+    "name": "Manjira_Open",
+    "note": 61,
+    "layer": 3,
+    "rr": 1,
+    "frames": 337200
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Manjira_Open_v3_rr2.wav",
+    "name": "Manjira_Open",
+    "note": 61,
+    "layer": 3,
+    "rr": 2,
+    "frames": 337200
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Manjira_Muted_v1_rr1.wav",
+    "name": "Manjira_Muted",
+    "note": 62,
+    "layer": 1,
+    "rr": 1,
+    "frames": 54000
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Manjira_Muted_v1_rr2.wav",
+    "name": "Manjira_Muted",
+    "note": 62,
+    "layer": 1,
+    "rr": 2,
+    "frames": 54000
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Manjira_Muted_v2_rr1.wav",
+    "name": "Manjira_Muted",
+    "note": 62,
+    "layer": 2,
+    "rr": 1,
+    "frames": 54000
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Manjira_Muted_v2_rr2.wav",
+    "name": "Manjira_Muted",
+    "note": 62,
+    "layer": 2,
+    "rr": 2,
+    "frames": 54000
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Manjira_Muted_v3_rr1.wav",
+    "name": "Manjira_Muted",
+    "note": 62,
+    "layer": 3,
+    "rr": 1,
+    "frames": 54000
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Manjira_Muted_v3_rr2.wav",
+    "name": "Manjira_Muted",
+    "note": 62,
+    "layer": 3,
+    "rr": 2,
+    "frames": 54000
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Khartal_Open_v1_rr1.wav",
+    "name": "Khartal_Open",
+    "note": 63,
+    "layer": 1,
+    "rr": 1,
+    "frames": 73200
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Khartal_Open_v1_rr2.wav",
+    "name": "Khartal_Open",
+    "note": 63,
+    "layer": 1,
+    "rr": 2,
+    "frames": 73200
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Khartal_Open_v2_rr1.wav",
+    "name": "Khartal_Open",
+    "note": 63,
+    "layer": 2,
+    "rr": 1,
+    "frames": 73200
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Khartal_Open_v2_rr2.wav",
+    "name": "Khartal_Open",
+    "note": 63,
+    "layer": 2,
+    "rr": 2,
+    "frames": 73200
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Khartal_Open_v3_rr1.wav",
+    "name": "Khartal_Open",
+    "note": 63,
+    "layer": 3,
+    "rr": 1,
+    "frames": 73200
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Khartal_Open_v3_rr2.wav",
+    "name": "Khartal_Open",
+    "note": 63,
+    "layer": 3,
+    "rr": 2,
+    "frames": 73200
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Khartal_Muted_v1_rr1.wav",
+    "name": "Khartal_Muted",
+    "note": 64,
+    "layer": 1,
+    "rr": 1,
+    "frames": 22800
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Khartal_Muted_v1_rr2.wav",
+    "name": "Khartal_Muted",
+    "note": 64,
+    "layer": 1,
+    "rr": 2,
+    "frames": 22800
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Khartal_Muted_v2_rr1.wav",
+    "name": "Khartal_Muted",
+    "note": 64,
+    "layer": 2,
+    "rr": 1,
+    "frames": 22800
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Khartal_Muted_v2_rr2.wav",
+    "name": "Khartal_Muted",
+    "note": 64,
+    "layer": 2,
+    "rr": 2,
+    "frames": 22800
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Khartal_Muted_v3_rr1.wav",
+    "name": "Khartal_Muted",
+    "note": 64,
+    "layer": 3,
+    "rr": 1,
+    "frames": 22800
+  },
+  {
+    "path": "06_Manjira_Khartal/SYNTH_Khartal_Muted_v3_rr2.wav",
+    "name": "Khartal_Muted",
+    "note": 64,
+    "layer": 3,
+    "rr": 2,
+    "frames": 22800
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Ghatam_Open_v1_rr1.wav",
+    "name": "Ghatam_Open",
+    "note": 65,
+    "layer": 1,
+    "rr": 1,
+    "frames": 140400
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Ghatam_Open_v1_rr2.wav",
+    "name": "Ghatam_Open",
+    "note": 65,
+    "layer": 1,
+    "rr": 2,
+    "frames": 140400
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Ghatam_Open_v2_rr1.wav",
+    "name": "Ghatam_Open",
+    "note": 65,
+    "layer": 2,
+    "rr": 1,
+    "frames": 140400
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Ghatam_Open_v2_rr2.wav",
+    "name": "Ghatam_Open",
+    "note": 65,
+    "layer": 2,
+    "rr": 2,
+    "frames": 140400
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Ghatam_Open_v3_rr1.wav",
+    "name": "Ghatam_Open",
+    "note": 65,
+    "layer": 3,
+    "rr": 1,
+    "frames": 140400
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Ghatam_Open_v3_rr2.wav",
+    "name": "Ghatam_Open",
+    "note": 65,
+    "layer": 3,
+    "rr": 2,
+    "frames": 140400
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Ghatam_Muted_v1_rr1.wav",
+    "name": "Ghatam_Muted",
+    "note": 66,
+    "layer": 1,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Ghatam_Muted_v1_rr2.wav",
+    "name": "Ghatam_Muted",
+    "note": 66,
+    "layer": 1,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Ghatam_Muted_v2_rr1.wav",
+    "name": "Ghatam_Muted",
+    "note": 66,
+    "layer": 2,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Ghatam_Muted_v2_rr2.wav",
+    "name": "Ghatam_Muted",
+    "note": 66,
+    "layer": 2,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Ghatam_Muted_v3_rr1.wav",
+    "name": "Ghatam_Muted",
+    "note": 66,
+    "layer": 3,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Ghatam_Muted_v3_rr2.wav",
+    "name": "Ghatam_Muted",
+    "note": 66,
+    "layer": 3,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Kanjira_Open_v1_rr1.wav",
+    "name": "Kanjira_Open",
+    "note": 67,
+    "layer": 1,
+    "rr": 1,
+    "frames": 145200
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Kanjira_Open_v1_rr2.wav",
+    "name": "Kanjira_Open",
+    "note": 67,
+    "layer": 1,
+    "rr": 2,
+    "frames": 145200
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Kanjira_Open_v2_rr1.wav",
+    "name": "Kanjira_Open",
+    "note": 67,
+    "layer": 2,
+    "rr": 1,
+    "frames": 145200
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Kanjira_Open_v2_rr2.wav",
+    "name": "Kanjira_Open",
+    "note": 67,
+    "layer": 2,
+    "rr": 2,
+    "frames": 145200
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Kanjira_Open_v3_rr1.wav",
+    "name": "Kanjira_Open",
+    "note": 67,
+    "layer": 3,
+    "rr": 1,
+    "frames": 145200
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Kanjira_Open_v3_rr2.wav",
+    "name": "Kanjira_Open",
+    "note": 67,
+    "layer": 3,
+    "rr": 2,
+    "frames": 145200
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Kanjira_Muted_v1_rr1.wav",
+    "name": "Kanjira_Muted",
+    "note": 68,
+    "layer": 1,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Kanjira_Muted_v1_rr2.wav",
+    "name": "Kanjira_Muted",
+    "note": 68,
+    "layer": 1,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Kanjira_Muted_v2_rr1.wav",
+    "name": "Kanjira_Muted",
+    "note": 68,
+    "layer": 2,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Kanjira_Muted_v2_rr2.wav",
+    "name": "Kanjira_Muted",
+    "note": 68,
+    "layer": 2,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Kanjira_Muted_v3_rr1.wav",
+    "name": "Kanjira_Muted",
+    "note": 68,
+    "layer": 3,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "07_Ghatam_Kanjira/SYNTH_Kanjira_Muted_v3_rr2.wav",
+    "name": "Kanjira_Muted",
+    "note": 68,
+    "layer": 3,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Kick_Open_v1_rr1.wav",
+    "name": "Electronic_Kick_Open",
+    "note": 69,
+    "layer": 1,
+    "rr": 1,
+    "frames": 135600
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Kick_Open_v1_rr2.wav",
+    "name": "Electronic_Kick_Open",
+    "note": 69,
+    "layer": 1,
+    "rr": 2,
+    "frames": 135600
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Kick_Open_v2_rr1.wav",
+    "name": "Electronic_Kick_Open",
+    "note": 69,
+    "layer": 2,
+    "rr": 1,
+    "frames": 135600
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Kick_Open_v2_rr2.wav",
+    "name": "Electronic_Kick_Open",
+    "note": 69,
+    "layer": 2,
+    "rr": 2,
+    "frames": 135600
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Kick_Open_v3_rr1.wav",
+    "name": "Electronic_Kick_Open",
+    "note": 69,
+    "layer": 3,
+    "rr": 1,
+    "frames": 135600
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Kick_Open_v3_rr2.wav",
+    "name": "Electronic_Kick_Open",
+    "note": 69,
+    "layer": 3,
+    "rr": 2,
+    "frames": 135600
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Kick_Muted_v1_rr1.wav",
+    "name": "Electronic_Kick_Muted",
+    "note": 70,
+    "layer": 1,
+    "rr": 1,
+    "frames": 54000
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Kick_Muted_v1_rr2.wav",
+    "name": "Electronic_Kick_Muted",
+    "note": 70,
+    "layer": 1,
+    "rr": 2,
+    "frames": 54000
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Kick_Muted_v2_rr1.wav",
+    "name": "Electronic_Kick_Muted",
+    "note": 70,
+    "layer": 2,
+    "rr": 1,
+    "frames": 54000
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Kick_Muted_v2_rr2.wav",
+    "name": "Electronic_Kick_Muted",
+    "note": 70,
+    "layer": 2,
+    "rr": 2,
+    "frames": 54000
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Kick_Muted_v3_rr1.wav",
+    "name": "Electronic_Kick_Muted",
+    "note": 70,
+    "layer": 3,
+    "rr": 1,
+    "frames": 54000
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Kick_Muted_v3_rr2.wav",
+    "name": "Electronic_Kick_Muted",
+    "note": 70,
+    "layer": 3,
+    "rr": 2,
+    "frames": 54000
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Snare_Open_v1_rr1.wav",
+    "name": "Electronic_Snare_Open",
+    "note": 71,
+    "layer": 1,
+    "rr": 1,
+    "frames": 97200
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Snare_Open_v1_rr2.wav",
+    "name": "Electronic_Snare_Open",
+    "note": 71,
+    "layer": 1,
+    "rr": 2,
+    "frames": 97200
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Snare_Open_v2_rr1.wav",
+    "name": "Electronic_Snare_Open",
+    "note": 71,
+    "layer": 2,
+    "rr": 1,
+    "frames": 97200
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Snare_Open_v2_rr2.wav",
+    "name": "Electronic_Snare_Open",
+    "note": 71,
+    "layer": 2,
+    "rr": 2,
+    "frames": 97200
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Snare_Open_v3_rr1.wav",
+    "name": "Electronic_Snare_Open",
+    "note": 71,
+    "layer": 3,
+    "rr": 1,
+    "frames": 97200
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Snare_Open_v3_rr2.wav",
+    "name": "Electronic_Snare_Open",
+    "note": 71,
+    "layer": 3,
+    "rr": 2,
+    "frames": 97200
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Snare_Muted_v1_rr1.wav",
+    "name": "Electronic_Snare_Muted",
+    "note": 72,
+    "layer": 1,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Snare_Muted_v1_rr2.wav",
+    "name": "Electronic_Snare_Muted",
+    "note": 72,
+    "layer": 1,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Snare_Muted_v2_rr1.wav",
+    "name": "Electronic_Snare_Muted",
+    "note": 72,
+    "layer": 2,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Snare_Muted_v2_rr2.wav",
+    "name": "Electronic_Snare_Muted",
+    "note": 72,
+    "layer": 2,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Snare_Muted_v3_rr1.wav",
+    "name": "Electronic_Snare_Muted",
+    "note": 72,
+    "layer": 3,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Snare_Muted_v3_rr2.wav",
+    "name": "Electronic_Snare_Muted",
+    "note": 72,
+    "layer": 3,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Clap_Open_v1_rr1.wav",
+    "name": "Electronic_Clap_Open",
+    "note": 73,
+    "layer": 1,
+    "rr": 1,
+    "frames": 87599
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Clap_Open_v1_rr2.wav",
+    "name": "Electronic_Clap_Open",
+    "note": 73,
+    "layer": 1,
+    "rr": 2,
+    "frames": 87599
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Clap_Open_v2_rr1.wav",
+    "name": "Electronic_Clap_Open",
+    "note": 73,
+    "layer": 2,
+    "rr": 1,
+    "frames": 87599
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Clap_Open_v2_rr2.wav",
+    "name": "Electronic_Clap_Open",
+    "note": 73,
+    "layer": 2,
+    "rr": 2,
+    "frames": 87599
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Clap_Open_v3_rr1.wav",
+    "name": "Electronic_Clap_Open",
+    "note": 73,
+    "layer": 3,
+    "rr": 1,
+    "frames": 87599
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Clap_Open_v3_rr2.wav",
+    "name": "Electronic_Clap_Open",
+    "note": 73,
+    "layer": 3,
+    "rr": 2,
+    "frames": 87599
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Clap_Muted_v1_rr1.wav",
+    "name": "Electronic_Clap_Muted",
+    "note": 74,
+    "layer": 1,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Clap_Muted_v1_rr2.wav",
+    "name": "Electronic_Clap_Muted",
+    "note": 74,
+    "layer": 1,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Clap_Muted_v2_rr1.wav",
+    "name": "Electronic_Clap_Muted",
+    "note": 74,
+    "layer": 2,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Clap_Muted_v2_rr2.wav",
+    "name": "Electronic_Clap_Muted",
+    "note": 74,
+    "layer": 2,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Clap_Muted_v3_rr1.wav",
+    "name": "Electronic_Clap_Muted",
+    "note": 74,
+    "layer": 3,
+    "rr": 1,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Clap_Muted_v3_rr2.wav",
+    "name": "Electronic_Clap_Muted",
+    "note": 74,
+    "layer": 3,
+    "rr": 2,
+    "frames": 34800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Hat_Open_v1_rr1.wav",
+    "name": "Electronic_Hat_Open",
+    "note": 75,
+    "layer": 1,
+    "rr": 1,
+    "frames": 154800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Hat_Open_v1_rr2.wav",
+    "name": "Electronic_Hat_Open",
+    "note": 75,
+    "layer": 1,
+    "rr": 2,
+    "frames": 154800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Hat_Open_v2_rr1.wav",
+    "name": "Electronic_Hat_Open",
+    "note": 75,
+    "layer": 2,
+    "rr": 1,
+    "frames": 154800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Hat_Open_v2_rr2.wav",
+    "name": "Electronic_Hat_Open",
+    "note": 75,
+    "layer": 2,
+    "rr": 2,
+    "frames": 154800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Hat_Open_v3_rr1.wav",
+    "name": "Electronic_Hat_Open",
+    "note": 75,
+    "layer": 3,
+    "rr": 1,
+    "frames": 154800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Hat_Open_v3_rr2.wav",
+    "name": "Electronic_Hat_Open",
+    "note": 75,
+    "layer": 3,
+    "rr": 2,
+    "frames": 154800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Hat_Muted_v1_rr1.wav",
+    "name": "Electronic_Hat_Muted",
+    "note": 76,
+    "layer": 1,
+    "rr": 1,
+    "frames": 22800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Hat_Muted_v1_rr2.wav",
+    "name": "Electronic_Hat_Muted",
+    "note": 76,
+    "layer": 1,
+    "rr": 2,
+    "frames": 22800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Hat_Muted_v2_rr1.wav",
+    "name": "Electronic_Hat_Muted",
+    "note": 76,
+    "layer": 2,
+    "rr": 1,
+    "frames": 22800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Hat_Muted_v2_rr2.wav",
+    "name": "Electronic_Hat_Muted",
+    "note": 76,
+    "layer": 2,
+    "rr": 2,
+    "frames": 22800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Hat_Muted_v3_rr1.wav",
+    "name": "Electronic_Hat_Muted",
+    "note": 76,
+    "layer": 3,
+    "rr": 1,
+    "frames": 22800
+  },
+  {
+    "path": "08_Bollywood_Drums/SYNTH_Electronic_Hat_Muted_v3_rr2.wav",
+    "name": "Electronic_Hat_Muted",
+    "note": 76,
+    "layer": 3,
+    "rr": 2,
+    "frames": 22800
+  }
+]

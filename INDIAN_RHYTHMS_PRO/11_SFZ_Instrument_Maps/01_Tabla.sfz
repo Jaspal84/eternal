@@ -1,0 +1,75 @@
+// Original synthesized approximations. MIDI note numbers are authoritative.
+<control> default_path=../
+<global> loop_mode=one_shot ampeg_release=0.03 amp_veltrack=0
+<group> key=36 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Na_v1_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Na_v1_rr2.wav
+<group> key=36 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Na_v2_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Na_v2_rr2.wav
+<group> key=36 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Na_v3_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Na_v3_rr2.wav
+<group> key=37 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Tin_v1_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Tin_v1_rr2.wav
+<group> key=37 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Tin_v2_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Tin_v2_rr2.wav
+<group> key=37 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Tin_v3_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Tin_v3_rr2.wav
+<group> key=38 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Tun_v1_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Tun_v1_rr2.wav
+<group> key=38 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Tun_v2_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Tun_v2_rr2.wav
+<group> key=38 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Tun_v3_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Tun_v3_rr2.wav
+<group> key=39 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Ta_v1_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Ta_v1_rr2.wav
+<group> key=39 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Ta_v2_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Ta_v2_rr2.wav
+<group> key=39 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Ta_v3_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Ta_v3_rr2.wav
+<group> key=40 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Dha_v1_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Dha_v1_rr2.wav
+<group> key=40 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Dha_v2_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Dha_v2_rr2.wav
+<group> key=40 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Dha_v3_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Dha_v3_rr2.wav
+<group> key=41 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Dhin_v1_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Dhin_v1_rr2.wav
+<group> key=41 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Dhin_v2_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Dhin_v2_rr2.wav
+<group> key=41 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Dhin_v3_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Dhin_v3_rr2.wav
+<group> key=42 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Ge_v1_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Ge_v1_rr2.wav
+<group> key=42 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Ge_v2_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Ge_v2_rr2.wav
+<group> key=42 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Ge_v3_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Ge_v3_rr2.wav
+<group> key=43 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Ke_v1_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Ke_v1_rr2.wav
+<group> key=43 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Ke_v2_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Ke_v2_rr2.wav
+<group> key=43 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=01_Tabla/SYNTH_Tabla_Ke_v3_rr1.wav
+<region> seq_position=2 sample=01_Tabla/SYNTH_Tabla_Ke_v3_rr2.wav

@@ -1,0 +1,39 @@
+// Original synthesized approximations. MIDI note numbers are authoritative.
+<control> default_path=../
+<global> loop_mode=one_shot ampeg_release=0.03 amp_veltrack=0
+<group> key=61 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=06_Manjira_Khartal/SYNTH_Manjira_Open_v1_rr1.wav
+<region> seq_position=2 sample=06_Manjira_Khartal/SYNTH_Manjira_Open_v1_rr2.wav
+<group> key=61 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=06_Manjira_Khartal/SYNTH_Manjira_Open_v2_rr1.wav
+<region> seq_position=2 sample=06_Manjira_Khartal/SYNTH_Manjira_Open_v2_rr2.wav
+<group> key=61 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=06_Manjira_Khartal/SYNTH_Manjira_Open_v3_rr1.wav
+<region> seq_position=2 sample=06_Manjira_Khartal/SYNTH_Manjira_Open_v3_rr2.wav
+<group> key=62 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=06_Manjira_Khartal/SYNTH_Manjira_Muted_v1_rr1.wav
+<region> seq_position=2 sample=06_Manjira_Khartal/SYNTH_Manjira_Muted_v1_rr2.wav
+<group> key=62 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=06_Manjira_Khartal/SYNTH_Manjira_Muted_v2_rr1.wav
+<region> seq_position=2 sample=06_Manjira_Khartal/SYNTH_Manjira_Muted_v2_rr2.wav
+<group> key=62 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=06_Manjira_Khartal/SYNTH_Manjira_Muted_v3_rr1.wav
+<region> seq_position=2 sample=06_Manjira_Khartal/SYNTH_Manjira_Muted_v3_rr2.wav
+<group> key=63 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=06_Manjira_Khartal/SYNTH_Khartal_Open_v1_rr1.wav
+<region> seq_position=2 sample=06_Manjira_Khartal/SYNTH_Khartal_Open_v1_rr2.wav
+<group> key=63 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=06_Manjira_Khartal/SYNTH_Khartal_Open_v2_rr1.wav
+<region> seq_position=2 sample=06_Manjira_Khartal/SYNTH_Khartal_Open_v2_rr2.wav
+<group> key=63 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=06_Manjira_Khartal/SYNTH_Khartal_Open_v3_rr1.wav
+<region> seq_position=2 sample=06_Manjira_Khartal/SYNTH_Khartal_Open_v3_rr2.wav
+<group> key=64 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=06_Manjira_Khartal/SYNTH_Khartal_Muted_v1_rr1.wav
+<region> seq_position=2 sample=06_Manjira_Khartal/SYNTH_Khartal_Muted_v1_rr2.wav
+<group> key=64 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=06_Manjira_Khartal/SYNTH_Khartal_Muted_v2_rr1.wav
+<region> seq_position=2 sample=06_Manjira_Khartal/SYNTH_Khartal_Muted_v2_rr2.wav
+<group> key=64 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=06_Manjira_Khartal/SYNTH_Khartal_Muted_v3_rr1.wav
+<region> seq_position=2 sample=06_Manjira_Khartal/SYNTH_Khartal_Muted_v3_rr2.wav

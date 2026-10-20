@@ -1,0 +1,39 @@
+// Original synthesized approximations. MIDI note numbers are authoritative.
+<control> default_path=../
+<global> loop_mode=one_shot ampeg_release=0.03 amp_veltrack=0
+<group> key=53 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=04_Dandiya/SYNTH_Dandiya_Single_Open_v1_rr1.wav
+<region> seq_position=2 sample=04_Dandiya/SYNTH_Dandiya_Single_Open_v1_rr2.wav
+<group> key=53 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=04_Dandiya/SYNTH_Dandiya_Single_Open_v2_rr1.wav
+<region> seq_position=2 sample=04_Dandiya/SYNTH_Dandiya_Single_Open_v2_rr2.wav
+<group> key=53 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=04_Dandiya/SYNTH_Dandiya_Single_Open_v3_rr1.wav
+<region> seq_position=2 sample=04_Dandiya/SYNTH_Dandiya_Single_Open_v3_rr2.wav
+<group> key=54 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=04_Dandiya/SYNTH_Dandiya_Single_Muted_v1_rr1.wav
+<region> seq_position=2 sample=04_Dandiya/SYNTH_Dandiya_Single_Muted_v1_rr2.wav
+<group> key=54 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=04_Dandiya/SYNTH_Dandiya_Single_Muted_v2_rr1.wav
+<region> seq_position=2 sample=04_Dandiya/SYNTH_Dandiya_Single_Muted_v2_rr2.wav
+<group> key=54 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=04_Dandiya/SYNTH_Dandiya_Single_Muted_v3_rr1.wav
+<region> seq_position=2 sample=04_Dandiya/SYNTH_Dandiya_Single_Muted_v3_rr2.wav
+<group> key=55 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=04_Dandiya/SYNTH_Dandiya_Double_v1_rr1.wav
+<region> seq_position=2 sample=04_Dandiya/SYNTH_Dandiya_Double_v1_rr2.wav
+<group> key=55 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=04_Dandiya/SYNTH_Dandiya_Double_v2_rr1.wav
+<region> seq_position=2 sample=04_Dandiya/SYNTH_Dandiya_Double_v2_rr2.wav
+<group> key=55 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=04_Dandiya/SYNTH_Dandiya_Double_v3_rr1.wav
+<region> seq_position=2 sample=04_Dandiya/SYNTH_Dandiya_Double_v3_rr2.wav
+<group> key=56 lovel=1 hivel=42 seq_length=2
+<region> seq_position=1 sample=04_Dandiya/SYNTH_Dandiya_Roll_v1_rr1.wav
+<region> seq_position=2 sample=04_Dandiya/SYNTH_Dandiya_Roll_v1_rr2.wav
+<group> key=56 lovel=43 hivel=85 seq_length=2
+<region> seq_position=1 sample=04_Dandiya/SYNTH_Dandiya_Roll_v2_rr1.wav
+<region> seq_position=2 sample=04_Dandiya/SYNTH_Dandiya_Roll_v2_rr2.wav
+<group> key=56 lovel=86 hivel=127 seq_length=2
+<region> seq_position=1 sample=04_Dandiya/SYNTH_Dandiya_Roll_v3_rr1.wav
+<region> seq_position=2 sample=04_Dandiya/SYNTH_Dandiya_Roll_v3_rr2.wav
